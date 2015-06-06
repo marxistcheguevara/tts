@@ -1,0 +1,164 @@
+Mətnin səsləndirilməsi sistemi daxil edilmiş mətni insan səsi ilə oxuyur. Aşağıdakı sahəyə Azərbaycan dilində mətn daxil edərək <strong>Səsləndir</strong> düyməsini basın. Səs faylını kompüterinizə endirmək üçün <strong>mp3 kimi yüklə</strong> düyməsini basın.
+<br><br>
+<html>
+<head>
+
+<style>
+.textarea_style
+{
+	width:98%;
+	border: 1px solid #369;
+	height:300px;
+	font-size:14px;
+	font-weight:500;
+	color:#000000;
+}
+
+
+.submit_style
+{
+	width:120px;
+	height:20px;
+	background-color:#ffffff;
+	font-weight:600;
+	border:1px solid #0033CC;
+	font-family:"Segoe UI", Arial;
+	vertical-align:middle;
+	color:#0033CC;
+}
+
+
+.dlc_button_tts {
+border-width:0;
+border-radius:2px;
+font:normal normal normal 13px/13px Arial,sans-serif; color:#ffffff;text-align:middle;text-decoration:none;
+background-color: #4b8bc2;
+background-image:url('../../../tts.png');
+background-repeat:no-repeat;
+width: 100px; height: 24px;
+cursor:pointer;
+ }
+
+.dlc_button_mp3 {
+border-width:0;
+border-radius:2px;
+font:normal normal normal 13px/13px Arial,sans-serif; color:#000000;text-align:middle;text-decoration:none;
+background-color: #cccccc;
+background-image:url('../../../down.png');
+background-repeat:no-repeat;
+width: 130px; height: 24px;
+cursor:pointer;
+ }
+
+.link_style
+{
+	font-family:Arial;
+	font-size:14px;
+	color:#2569b0;
+	text-decoration:underline;
+}
+
+.link_style:hover
+{
+	font-family:Arial;
+	font-size:14px;
+	color:#2569b0;
+	text-decoration:none;
+}
+
+</style>
+
+<script language="javascript">
+
+function great_max_length(form, status)
+{
+	var maxlength=15000;
+        var lock=0;
+	
+	if (!lock)
+        {
+		if(status == 'from')
+		{
+			lock=true;
+			if (form.from.value.length>maxlength)
+			form.from.value=form.from.value.substring(0,maxlength);
+			lock=false;
+		}
+		else
+		{	
+			lock=true;		
+			if (form.to.value.length>maxlength)
+			form.to.value=form.to.value.substring(0,maxlength);
+			lock=false;
+		}
+	}
+}
+
+</script>
+
+<script language="Javascript">
+function SpeakSource(){
+	var txt =  document.getElementById('id_from').value; 
+	txt = txt.replace(/\;/g, '.');
+	var params = "from="+txt;
+	try{
+		var req = new XMLHttpRequest();
+		} catch (e){
+				alert("Your browser broke!");
+				return false;
+		}
+		
+		req.onreadystatechange = function(){
+			if(req.readyState == 4){
+			if (req.status==200) {
+				if (req.responseText != "") {
+					var copyto = "</form>";
+					var text = req.responseText;
+					var pos = text.indexOf(copyto) + copyto.length;
+					var objecttts = text.substr(0,pos);
+					var mp3_link = text.substr(pos,text.length-pos);
+					document.getElementById("objecttts").innerHTML=objecttts;
+					document.getElementById("mp3_link").innerHTML=mp3_link;
+				}					
+			}
+		}		
+	}
+	req.open("POST", "../../../cgi-bin/tts/tts.cgi?az" , true);
+	req.setRequestHeader('Content-Type','application/x-www-form-urlencoded; charset=UTF-8');
+	req.send(params);
+}
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="main.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="/translate_az/favicon.ico" type="image/x-icon" />
+</head>
+	<form name="form" method="POST">
+<body style="margin:0px; padding:0px" >
+	<textarea id="id_from" name="from" class="textarea_style" 
+				onChange="great_max_length(this.form, 'from');"  
+				OnKeyUp="great_max_length(this.form, 'from');" 
+				onBlur="great_max_length(this.form, 'from');" 
+				onFocus="great_max_length(this.form, 'from');" 
+				onMouseMove="great_max_length(this.form, 'from');"></textarea>
+
+﻿	<table border="0" width="735" cellspacing="0" cellspadding="0">	
+		<tr>
+			<td valign="top" width="104">
+				<input type="button" name="make_audio" class="dlc_button_tts" value="&nbsp;&nbsp;Səsləndir" id="make_audio_id" onclick="SpeakSource()">	
+</form>
+
+		
+			</td>
+			<td valign="top" width="104" id="objecttts"></td>
+			<td valign="top" id="mp3_link"></td>
+<td align="right"><div style="padding-right: 5px" align="right">
+<script type="text/javascript">var switchTo5x=false;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'4409e200-2a8a-4c84-928a-1db55536d70a'});</script>
+Paylaş:<span class='st_facebook'></span><span class='st_twitter'></span><span class='st_linkedin'></span><span class='st_vkontakte'></span><span class='st_odnoklassniki'></span>
+</div>	</td>
+		</tr>
+	</table>
+</body>
+</html>
+
+
+

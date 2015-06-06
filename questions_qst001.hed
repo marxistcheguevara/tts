@@ -1,0 +1,1607 @@
+QS "LL-Vowel"				{a^*,ee^*,e^*,oo^*,o^*,uu^*,u^*,ii^*,i^*}
+QS "LL-Consonant"			{b^*,c^*,d^*,gh^*,g^*,q^*,v^*,y^*,z^*,l^*,m^*,n^*,r^*,ch^*,f^*,h^*,kk^*,k^*,p^*,sh^*,s^*,t^*,j^*}
+QS  "LL-Dilonu"		{t^*,d^*,s^*,z^*,n^*,l^*,sh^*,j^*,ch^*,c^*,r^*,i^*,u^*,oo^*,ee^*}
+QS  "LL-Dilortasi"		{k^*,g^*,y^*,e^*}
+QS  "LL-Dilarxasi"		{kk^*,q^*,x^*,gh^*,c^*,u^*,o^*,ii^*,a^*}
+QS  "LL-Dodaq_Consonant"		{p^*,b^*,v^*,f^*,m^*}
+QS  "LL-Dil_Consonant"		{t^*,d^*,n^*,k^*,g^*,kk^*,q^*,s^*,z^*,sh^*,j^*,y^*,x^*,gh^*,ch^*,c^*,l^*,r^*}
+QS  "LL-Dilonu_Consonant"		{t^*,d^*,s^*,z^*,n^*,l^*,sh^*,j^*,ch^*,c^*,r^*}
+QS  "LL-Dilortasi_Consonant"	{k^*,g^*,y^*}
+QS  "LL-Dilarxasi_Consonant"	{kk^*,q^*,x^*,gh^*,c^*}
+QS  "LL-Kipleshen_Consonant"	{p^*,b^*,m^*,t^*,d^*,n^*,k^*,g^*,kk^*,q^*,n^*}
+QS  "LL-Novlu_Consonant"		{f^*,v^*,s^*,z^*,sh^*,j^*,y^*,x^*,gh^*,h^*}
+QS  "LL-Kipleshen_Novlu"	{ch^*,c^*}
+QS  "LL-Qoshadodaq_Consonant"	{p^*,b^*,m^*}
+QS  "LL-Dodaq_Dish"	{f^*,v^*}
+QS  "LL-Dilonu_Dish"	{t^*,d^*,s^*,z^*,l^*,n^*}
+QS  "LL-Dilonu_Yuvaq"	{sh^*,j^*,ch^*,c^*,r^*}
+QS  "LL-Dilortasi_Sert_Damaq"	{k^*,g^*,y^*}
+QS  "LL-Dilarxasi_Yumshaq_Damaq"	{kk^*,q^*,x^*,gh^*}
+QS  "LL-Dilonu_Dish_Kipleshen"	{t^*,d^*,n^*}
+QS  "LL-Dilonu_Dish_Novlu"		{s^*,z^*}
+QS  "LL-Dilonu_Yuvaq_Novlu"		{sh^*,j^*}
+QS  "LL-Dilonu_Yuvaq_Kipleshen_Novlu"	{ch^*,c^*}
+QS  "LL-Dilortasi_Sert_Damaq_Kipleshen"	{k^*,g^*}
+QS  "LL-Dilarxasi_Yumshaq_Damaq_Kipleshen"	{kk^*,q^*}
+QS  "LL-Dilarxasi_Yumshaq_Damaq_Novlu"		{x^*,gh^*}
+QS  "LL-Kar_Consonant"		{ch^*,f^*,h^*,kk^*,p^*,s^*,t^*,x^*}
+QS  "LL-Cingiltili_Consonant"	{b^*,c^*,d^*,g^*,gh^*,q^*,v^*,y^*,z^*,l^*,m^*,n^*,r^*}
+QS  "LL-Kar_Dodaq"		{p^*,f^*}
+QS  "LL-Kar_Dil"		{t^*,k^*,kk^*,s^*,sh^*,x^*,ch^*}
+QS  "LL-Cingiltili_Dodaq"	{b^*,v^*,m^*}
+QS  "LL-Cingiltili_Dil"	{d^*,n^*,g^*,q^*,z^*,j^*,y^*,gh^*,c^*,l^*,r^*}
+QS  "LL-Kar_Dilonu"			{t^*,s^*,sh^*,ch^*}
+QS  "LL-Kar_Dilarxasi"		{k^*,x^*}
+QS  "LL-Cingiltili_Dilonu"		{d^*,z^*,n^*,l^*,j^*,c^*,r^*}
+QS  "LL-Cingiltili_Dilortasi"	{g^*,y^*}
+QS  "LL-Cingiltili_Dilarxasi"	{q^*,gh^*,c^*}
+QS  "LL-Kar_Kipleshen"	{p^*,t^*,k^*,kk^*}
+QS  "LL-Kar_Novlu"		{f^*,s^*,sh^*,x^*,h^*}
+QS  "LL-Cingiltili_Kipleshen"	{b^*,m^*,d^*,n^*,g^*,q^*}
+QS  "LL-Cingiltili_Novlu"		{v^*,z^*,j^*,y^*,gh^*}
+QS  "LL-Sonor_Consonant"	{l^*,m^*,n^*,r^*}
+QS  "LL-Kuylu_Consonant"	{b^*,c^*,ch^*,d^*,f^*,g^*,gh^*,h^*,kk^*,p^*,q^*,s^*,t^*,v^*,x^*,y^*,z^*}
+QS  "LL-Dilonu_Vowel"		{i^*,u^*,oo^*,ee^*}
+QS  "LL-Dilortasi_Vowel"		{e^*}
+QS  "LL-Dilarxasi_Vowel"	{u^*,o^*,ii^*,a^*}
+QS  "LL-Qapali_Vowel"		{u^*,i^*,uu^*,ii^*}
+QS  "LL-Achiq_Vowel"		{o^*,a^*,oo^*,ee^*}
+QS  "LL-Dodaqlanan_Vowel"	{uu^*,u^*,oo^*,o^*}
+QS  "LL-Dodaqlanmayan_Vowel"	{i^*,e^*,ee^*,ii^*,a^*}
+QS  "LL-On_Sira_Qapali"  {i^*,uu^*}
+QS  "LL-On_Sira_Achiq"  {oo^*,ee^*}
+QS  "LL-Arxa_Sira_Qapali"  {ii^*,u^*}
+QS  "LL-Arxa_Sira_Achiq"  {o^*,a^*}
+QS  "LL-On_Sira_Dodaqlanan"  {uu^*,oo^*}
+QS  "LL-On_Sira_Dodaqlanmayan"  {i^*,ee^*}
+QS  "LL-Arxa_Sira_Dodaqlanan"  {u^*,o^*}
+QS  "LL-Arxa_Sira_Dodaqlanmayan"  {ii^*,a^*}
+QS  "LL-Qapali_Dodaqlanan" {u^*,uu^*}
+QS  "LL-Qapali_Dodaqlanmayan" {i^*,ii^*}
+QS  "LL-Achiq_Dodaqlanan" {o^*,oo^*}
+QS  "LL-Achiq_Dodaqlanmayan" {a^*,ee^*}
+QS  "LL-silences"			{sil^*,pau^*}
+QS  "LL-a"		{a^*}
+QS  "LL-e"		{e^*}
+QS  "LL-ee"		{ee^*}
+QS  "LL-i"		{i^*}
+QS  "LL-ii"		{ii^*}
+QS  "LL-o"		{o^*}
+QS  "LL-oo"		{oo^*}
+QS  "LL-u"		{u^*}
+QS  "LL-uu"		{uu^*}
+QS  "LL-b"		{b^*}
+QS  "LL-c"		{c^*}
+QS  "LL-ch"		{ch^*}
+QS  "LL-d"		{d^*}
+QS  "LL-f"		{f^*}
+QS  "LL-g"		{g^*}
+QS  "LL-gh"		{gh^*}
+QS  "LL-h"		{h^*}
+QS  "LL-j"		{j^*}
+QS  "LL-k"		{k^*}
+QS  "LL-kk"		{kk^*}
+QS  "LL-l"		{l^*}
+QS  "LL-m"		{m^*}
+QS  "LL-n"		{n^*}
+QS  "LL-p"		{p^*}
+QS  "LL-q"		{q^*}
+QS  "LL-r"		{r^*}
+QS  "LL-s"		{s^*}
+QS  "LL-t"		{t^*}
+QS  "LL-v"		{v^*}
+QS  "LL-x"		{x^*}
+QS  "LL-y"		{y^*}
+QS  "LL-z"		{z^*}
+QS  "LL-sil"		{sil^*}
+QS  "LL-pau"		{pau^*}
+QS  "LL-h#"		{h#^*}
+QS  "LL-brth"		{brth^*}
+
+
+QS "L-Vowel"				{*^a-*,*^ee-*,*^e-*,*^oo-*,*^o-*,*^uu-*,*^u-*,*^ii-*,*^i-*}
+QS "L-Consonant"			{*^b-*,*^c-*,*^d-*,*^gh-*,*^g-*,*^q-*,*^v-*,*^y-*,*^z-*,*^l-*,*^m-*,*^n-*,*^r-*,*^ch-*,*^f-*,*^h-*,*^kk-*,*^k-*,*^p-*,*^sh-*,*^s-*,*^t-*,*^j-*}
+QS  "L-Dilonu"		{*^t-*,*^d-*,*^s-*,*^z-*,*^n-*,*^l-*,*^sh-*,*^j-*,*^ch-*,*^c-*,*^r-*,*^i-*,*^u-*,*^oo-*,*^ee-*}
+QS  "L-Dilortasi"		{*^k-*,*^g-*,*^y-*,*^e-*}
+QS  "L-Dilarxasi"		{*^kk-*,*^q-*,*^x-*,*^gh-*,*^c-*,*^u-*,*^o-*,*^ii-*,*^a-*}
+QS  "L-Dodaq_Consonant"		{*^p-*,*^b-*,*^v-*,*^f-*,*^m-*}
+QS  "L-Dil_Consonant"		{*^t-*,*^d-*,*^n-*,*^k-*,*^g-*,*^kk-*,*^q-*,*^s-*,*^z-*,*^sh-*,*^j-*,*^y-*,*^x-*,*^gh-*,*^ch-*,*^c-*,*^l-*,*^r-*}
+QS  "L-Dilonu_Consonant"		{*^t-*,*^d-*,*^s-*,*^z-*,*^n-*,*^l-*,*^sh-*,*^j-*,*^ch-*,*^c-*,*^r-*}
+QS  "L-Dilortasi_Consonant"	{*^k-*,*^g-*,*^y-*}
+QS  "L-Dilarxasi_Consonant"	{*^kk-*,*^q-*,*^x-*,*^gh-*,*^c-*}
+QS  "L-Kipleshen_Consonant"	{*^p-*,*^b-*,*^m-*,*^t-*,*^d-*,*^n-*,*^k-*,*^g-*,*^kk-*,*^q-*,*^n-*}
+QS  "L-Novlu_Consonant"		{*^f-*,*^v-*,*^s-*,*^z-*,*^sh-*,*^j-*,*^y-*,*^x-*,*^gh-*,*^h-*}
+QS  "L-Kipleshen_Novlu"	{*^ch-*,*^c-*}
+QS  "L-Qoshadodaq_Consonant"	{*^p-*,*^b-*,*^m-*}
+QS  "L-Dodaq_Dish"	{*^f-*,*^v-*}
+QS  "L-Dilonu_Dish"	{*^t-*,*^d-*,*^s-*,*^z-*,*^l-*,*^n-*}
+QS  "L-Dilonu_Yuvaq"	{*^sh-*,*^j-*,*^ch-*,*^c-*,*^r-*}
+QS  "L-Dilortasi_Sert_Damaq"	{*^k-*,*^g-*,*^y-*}
+QS  "L-Dilarxasi_Yumshaq_Damaq"	{*^kk-*,*^q-*,*^x-*,*^gh-*}
+QS  "L-Dilonu_Dish_Kipleshen"	{*^t-*,*^d-*,*^n-*}
+QS  "L-Dilonu_Dish_Novlu"		{*^s-*,*^z-*}
+QS  "L-Dilonu_Yuvaq_Novlu"		{*^sh-*,*^j-*}
+QS  "L-Dilonu_Yuvaq_Kipleshen_Novlu"	{*^ch-*,*^c-*}
+QS  "L-Dilortasi_Sert_Damaq_Kipleshen"	{*^k-*,*^g-*}
+QS  "L-Dilarxasi_Yumshaq_Damaq_Kipleshen"	{*^kk-*,*^q-*}
+QS  "L-Dilarxasi_Yumshaq_Damaq_Novlu"		{*^x-*,*^gh-*}
+QS  "L-Kar_Consonant"		{*^ch-*,*^f-*,*^h-*,*^kk-*,*^p-*,*^s-*,*^t-*,*^x-*}
+QS  "L-Cingiltili_Consonant"	{*^b-*,*^c-*,*^d-*,*^g-*,*^gh-*,*^q-*,*^v-*,*^y-*,*^z-*,*^l-*,*^m-*,*^n-*,*^r-*}
+QS  "L-Kar_Dodaq"		{*^p-*,*^f-*}
+QS  "L-Kar_Dil"		{*^t-*,*^k-*,*^kk-*,*^s-*,*^sh-*,*^x-*,*^ch-*}
+QS  "L-Cingiltili_Dodaq"	{*^b-*,*^v-*,*^m-*}
+QS  "L-Cingiltili_Dil"	{*^d-*,*^n-*,*^g-*,*^q-*,*^z-*,*^j-*,*^y-*,*^gh-*,*^c-*,*^l-*,*^r-*}
+QS  "L-Kar_Dilonu"			{*^t-*,*^s-*,*^sh-*,*^ch-*}
+QS  "L-Kar_Dilarxasi"		{*^k-*,*^x-*}
+QS  "L-Cingiltili_Dilonu"		{*^d-*,*^z-*,*^n-*,*^l-*,*^j-*,*^c-*,*^r-*}
+QS  "L-Cingiltili_Dilortasi"	{*^g-*,*^y-*}
+QS  "L-Cingiltili_Dilarxasi"	{*^q-*,*^gh-*,*^c-*}
+QS  "L-Kar_Kipleshen"	{*^p-*,*^t-*,*^k-*,*^kk-*}
+QS  "L-Kar_Novlu"		{*^f-*,*^s-*,*^sh-*,*^x-*,*^h-*}
+QS  "L-Cingiltili_Kipleshen"	{*^b-*,*^m-*,*^d-*,*^n-*,*^g-*,*^q-*}
+QS  "L-Cingiltili_Novlu"		{*^v-*,*^z-*,*^j-*,*^y-*,*^gh-*}
+QS  "L-Sonor_Consonant"	{*^l-*,*^m-*,*^n-*,*^r-*}
+QS  "L-Kuylu_Consonant"	{*^b-*,*^c-*,*^ch-*,*^d-*,*^f-*,*^g-*,*^gh-*,*^h-*,*^kk-*,*^p-*,*^q-*,*^s-*,*^t-*,*^v-*,*^x-*,*^y-*,*^z-*}
+QS  "L-Dilonu_Vowel"		{*^i-*,*^u-*,*^oo-*,*^ee-*}
+QS  "L-Dilortasi_Vowel"		{*^e-*}
+QS  "L-Dilarxasi_Vowel"	{*^u-*,*^o-*,*^ii-*,*^a-*}
+QS  "L-Qapali_Vowel"		{*^u-*,*^i-*,*^uu-*,*^ii-*}
+QS  "L-Achiq_Vowel"		{*^o-*,*^a-*,*^oo-*,*^ee-*}
+QS  "L-Dodaqlanan_Vowel"	{*^uu-*,*^u-*,*^oo-*,*^o-*}
+QS  "L-Dodaqlanmayan_Vowel"	{*^i-*,*^e-*,*^ee-*,*^ii-*,*^a-*}
+QS  "L-On_Sira_Qapali"  {*^i-*,*^uu-*}
+QS  "L-On_Sira_Achiq"  {*^oo-*,*^ee-*}
+QS  "L-Arxa_Sira_Qapali"  {*^ii-*,*^u-*}
+QS  "L-Arxa_Sira_Achiq"  {*^o-*,*^a-*}
+QS  "L-On_Sira_Dodaqlanan"  {*^uu-*,*^oo-*}
+QS  "L-On_Sira_Dodaqlanmayan"  {*^i-*,*^ee-*}
+QS  "L-Arxa_Sira_Dodaqlanan"  {*^u-*,*^o-*}
+QS  "L-Arxa_Sira_Dodaqlanmayan"  {*^ii-*,*^a-*}
+QS  "L-Qapali_Dodaqlanan" {*^u-*,*^uu-*}
+QS  "L-Qapali_Dodaqlanmayan" {*^i-*,*^ii-*}
+QS  "L-Achiq_Dodaqlanan" {*^o-*,*^oo-*}
+QS  "L-Achiq_Dodaqlanmayan" {*^a-*,*^ee-*}
+QS  "L-silences"			{*^sil-*,*^pau-*}
+QS  "L-a"		{*^a-*}
+QS  "L-e"		{*^e-*}
+QS  "L-ee"		{*^ee-*}
+QS  "L-i"		{*^i-*}
+QS  "L-ii"		{*^ii-*}
+QS  "L-o"		{*^o-*}
+QS  "L-oo"		{*^oo-*}
+QS  "L-u"		{*^u-*}
+QS  "L-uu"		{*^uu-*}
+QS  "L-b"		{*^b-*}
+QS  "L-c"		{*^c-*}
+QS  "L-ch"		{*^ch-*}
+QS  "L-d"		{*^d-*}
+QS  "L-f"		{*^f-*}
+QS  "L-g"		{*^g-*}
+QS  "L-gh"		{*^gh-*}
+QS  "L-h"		{*^h-*}
+QS  "L-j"		{*^j-*}
+QS  "L-k"		{*^k-*}
+QS  "L-kk"		{*^kk-*}
+QS  "L-l"		{*^l-*}
+QS  "L-m"		{*^m-*}
+QS  "L-n"		{*^n-*}
+QS  "L-p"		{*^p-*}
+QS  "L-q"		{*^q-*}
+QS  "L-r"		{*^r-*}
+QS  "L-s"		{*^s-*}
+QS  "L-t"		{*^t-*}
+QS  "L-v"		{*^v-*}
+QS  "L-x"		{*^x-*}
+QS  "L-y"		{*^y-*}
+QS  "L-z"		{*^z-*}
+QS  "L-sil"		{*^sil-*}
+QS  "L-pau"		{*^pau-*}
+QS  "L-h#"		{*^h#-*}
+QS  "L-brth"		{*^brth-*}
+
+
+QS "C-Vowel"				{*-a+*,*-ee+*,*-e+*,*-oo+*,*-o+*,*-uu+*,*-u+*,*-ii+*,*-i+*}
+QS "C-Consonant"			{*-b+*,*-c+*,*-d+*,*-gh+*,*-g+*,*-q+*,*-v+*,*-y+*,*-z+*,*-l+*,*-m+*,*-n+*,*-r+*,*-ch+*,*-f+*,*-h+*,*-kk+*,*-k+*,*-p+*,*-sh+*,*-s+*,*-t+*,*-j+*}
+QS  "C-Dilonu"		{*-t+*,*-d+*,*-s+*,*-z+*,*-n+*,*-l+*,*-sh+*,*-j+*,*-ch+*,*-c+*,*-r+*,*-i+*,*-u+*,*-oo+*,*-ee+*}
+QS  "C-Dilortasi"		{*-k+*,*-g+*,*-y+*,*-e+*}
+QS  "C-Dilarxasi"		{*-kk+*,*-q+*,*-x+*,*-gh+*,*-c+*,*-u+*,*-o+*,*-ii+*,*-a+*}
+QS  "C-Dodaq_Consonant"		{*-p+*,*-b+*,*-v+*,*-f+*,*-m+*}
+QS  "C-Dil_Consonant"		{*-t+*,*-d+*,*-n+*,*-k+*,*-g+*,*-kk+*,*-q+*,*-s+*,*-z+*,*-sh+*,*-j+*,*-y+*,*-x+*,*-gh+*,*-ch+*,*-c+*,*-l+*,*-r+*}
+QS  "C-Dilonu_Consonant"		{*-t+*,*-d+*,*-s+*,*-z+*,*-n+*,*-l+*,*-sh+*,*-j+*,*-ch+*,*-c+*,*-r+*}
+QS  "C-Dilortasi_Consonant"	{*-k+*,*-g+*,*-y+*}
+QS  "C-Dilarxasi_Consonant"	{*-kk+*,*-q+*,*-x+*,*-gh+*,*-c+*}
+QS  "C-Kipleshen_Consonant"	{*-p+*,*-b+*,*-m+*,*-t+*,*-d+*,*-n+*,*-k+*,*-g+*,*-kk+*,*-q+*,*-n+*}
+QS  "C-Novlu_Consonant"		{*-f+*,*-v+*,*-s+*,*-z+*,*-sh+*,*-j+*,*-y+*,*-x+*,*-gh+*,*-h+*}
+QS  "C-Kipleshen_Novlu"	{*-ch+*,*-c+*}
+QS  "C-Qoshadodaq_Consonant"	{*-p+*,*-b+*,*-m+*}
+QS  "C-Dodaq_Dish"	{*-f+*,*-v+*}
+QS  "C-Dilonu_Dish"	{*-t+*,*-d+*,*-s+*,*-z+*,*-l+*,*-n+*}
+QS  "C-Dilonu_Yuvaq"	{*-sh+*,*-j+*,*-ch+*,*-c+*,*-r+*}
+QS  "C-Dilortasi_Sert_Damaq"	{*-k+*,*-g+*,*-y+*}
+QS  "C-Dilarxasi_Yumshaq_Damaq"	{*-kk+*,*-q+*,*-x+*,*-gh+*}
+QS  "C-Dilonu_Dish_Kipleshen"	{*-t+*,*-d+*,*-n+*}
+QS  "C-Dilonu_Dish_Novlu"		{*-s+*,*-z+*}
+QS  "C-Dilonu_Yuvaq_Novlu"		{*-sh+*,*-j+*}
+QS  "C-Dilonu_Yuvaq_Kipleshen_Novlu"	{*-ch+*,*-c+*}
+QS  "C-Dilortasi_Sert_Damaq_Kipleshen"	{*-k+*,*-g+*}
+QS  "C-Dilarxasi_Yumshaq_Damaq_Kipleshen"	{*-kk+*,*-q+*}
+QS  "C-Dilarxasi_Yumshaq_Damaq_Novlu"		{*-x+*,*-gh+*}
+QS  "C-Kar_Consonant"		{*-ch+*,*-f+*,*-h+*,*-kk+*,*-p+*,*-s+*,*-t+*,*-x+*}
+QS  "C-Cingiltili_Consonant"	{*-b+*,*-c+*,*-d+*,*-g+*,*-gh+*,*-q+*,*-v+*,*-y+*,*-z+*,*-l+*,*-m+*,*-n+*,*-r+*}
+QS  "C-Kar_Dodaq"		{*-p+*,*-f+*}
+QS  "C-Kar_Dil"		{*-t+*,*-k+*,*-kk+*,*-s+*,*-sh+*,*-x+*,*-ch+*}
+QS  "C-Cingiltili_Dodaq"	{*-b+*,*-v+*,*-m+*}
+QS  "C-Cingiltili_Dil"	{*-d+*,*-n+*,*-g+*,*-q+*,*-z+*,*-j+*,*-y+*,*-gh+*,*-c+*,*-l+*,*-r+*}
+QS  "C-Kar_Dilonu"			{*-t+*,*-s+*,*-sh+*,*-ch+*}
+QS  "C-Kar_Dilarxasi"		{*-k+*,*-x+*}
+QS  "C-Cingiltili_Dilonu"		{*-d+*,*-z+*,*-n+*,*-l+*,*-j+*,*-c+*,*-r+*}
+QS  "C-Cingiltili_Dilortasi"	{*-g+*,*-y+*}
+QS  "C-Cingiltili_Dilarxasi"	{*-q+*,*-gh+*,*-c+*}
+QS  "C-Kar_Kipleshen"	{*-p+*,*-t+*,*-k+*,*-kk+*}
+QS  "C-Kar_Novlu"		{*-f+*,*-s+*,*-sh+*,*-x+*,*-h+*}
+QS  "C-Cingiltili_Kipleshen"	{*-b+*,*-m+*,*-d+*,*-n+*,*-g+*,*-q+*}
+QS  "C-Cingiltili_Novlu"		{*-v+*,*-z+*,*-j+*,*-y+*,*-gh+*}
+QS  "C-Sonor_Consonant"	{*-l+*,*-m+*,*-n+*,*-r+*}
+QS  "C-Kuylu_Consonant"	{*-b+*,*-c+*,*-ch+*,*-d+*,*-f+*,*-g+*,*-gh+*,*-h+*,*-kk+*,*-p+*,*-q+*,*-s+*,*-t+*,*-v+*,*-x+*,*-y+*,*-z+*}
+QS  "C-Dilonu_Vowel"		{*-i+*,*-u+*,*-oo+*,*-ee+*}
+QS  "C-Dilortasi_Vowel"		{*-e+*}
+QS  "C-Dilarxasi_Vowel"	{*-u+*,*-o+*,*-ii+*,*-a+*}
+QS  "C-Qapali_Vowel"		{*-u+*,*-i+*,*-uu+*,*-ii+*}
+QS  "C-Achiq_Vowel"		{*-o+*,*-a+*,*-oo+*,*-ee+*}
+QS  "C-Dodaqlanan_Vowel"	{*-uu+*,*-u+*,*-oo+*,*-o+*}
+QS  "C-Dodaqlanmayan_Vowel"	{*-i+*,*-e+*,*-ee+*,*-ii+*,*-a+*}
+QS  "C-On_Sira_Qapali"  {*-i+*,*-uu+*}
+QS  "C-On_Sira_Achiq"  {*-oo+*,*-ee+*}
+QS  "C-Arxa_Sira_Qapali"  {*-ii+*,*-u+*}
+QS  "C-Arxa_Sira_Achiq"  {*-o+*,*-a+*}
+QS  "C-On_Sira_Dodaqlanan"  {*-uu+*,*-oo+*}
+QS  "C-On_Sira_Dodaqlanmayan"  {*-i+*,*-ee+*}
+QS  "C-Arxa_Sira_Dodaqlanan"  {*-u+*,*-o+*}
+QS  "C-Arxa_Sira_Dodaqlanmayan"  {*-ii+*,*-a+*}
+QS  "C-Qapali_Dodaqlanan" {*-u+*,*-uu+*}
+QS  "C-Qapali_Dodaqlanmayan" {*-i+*,*-ii+*}
+QS  "C-Achiq_Dodaqlanan" {*-o+*,*-oo+*}
+QS  "C-Achiq_Dodaqlanmayan" {*-a+*,*-ee+*}
+QS  "C-silences"			{*-sil+*,*-pau+*}
+QS  "C-a"		{*-a+*}
+QS  "C-e"		{*-e+*}
+QS  "C-ee"		{*-ee+*}
+QS  "C-i"		{*-i+*}
+QS  "C-ii"		{*-ii+*}
+QS  "C-o"		{*-o+*}
+QS  "C-oo"		{*-oo+*}
+QS  "C-u"		{*-u+*}
+QS  "C-uu"		{*-uu+*}
+QS  "C-b"		{*-b+*}
+QS  "C-c"		{*-c+*}
+QS  "C-ch"		{*-ch+*}
+QS  "C-d"		{*-d+*}
+QS  "C-f"		{*-f+*}
+QS  "C-g"		{*-g+*}
+QS  "C-gh"		{*-gh+*}
+QS  "C-h"		{*-h+*}
+QS  "C-j"		{*-j+*}
+QS  "C-k"		{*-k+*}
+QS  "C-kk"		{*-kk+*}
+QS  "C-l"		{*-l+*}
+QS  "C-m"		{*-m+*}
+QS  "C-n"		{*-n+*}
+QS  "C-p"		{*-p+*}
+QS  "C-q"		{*-q+*}
+QS  "C-r"		{*-r+*}
+QS  "C-s"		{*-s+*}
+QS  "C-t"		{*-t+*}
+QS  "C-v"		{*-v+*}
+QS  "C-x"		{*-x+*}
+QS  "C-y"		{*-y+*}
+QS  "C-z"		{*-z+*}
+QS  "C-sil"		{*-sil+*}
+QS  "C-pau"		{*-pau+*}
+QS  "C-h#"		{*-h#+*}
+QS  "C-brth"		{*-brth+*}
+
+
+QS "R-Vowel"				{*+a=*,*+ee=*,*+e=*,*+oo=*,*+o=*,*+uu=*,*+u=*,*+ii=*,*+i=*}
+QS "R-Consonant"			{*+b=*,*+c=*,*+d=*,*+gh=*,*+g=*,*+q=*,*+v=*,*+y=*,*+z=*,*+l=*,*+m=*,*+n=*,*+r=*,*+ch=*,*+f=*,*+h=*,*+kk=*,*+k=*,*+p=*,*+sh=*,*+s=*,*+t=*,*+j=*}
+QS  "R-Dilonu"		{*+t=*,*+d=*,*+s=*,*+z=*,*+n=*,*+l=*,*+sh=*,*+j=*,*+ch=*,*+c=*,*+r=*,*+i=*,*+u=*,*+oo=*,*+ee=*}
+QS  "R-Dilortasi"		{*+k=*,*+g=*,*+y=*,*+e=*}
+QS  "R-Dilarxasi"		{*+kk=*,*+q=*,*+x=*,*+gh=*,*+c=*,*+u=*,*+o=*,*+ii=*,*+a=*}
+QS  "R-Dodaq_Consonant"		{*+p=*,*+b=*,*+v=*,*+f=*,*+m=*}
+QS  "R-Dil_Consonant"		{*+t=*,*+d=*,*+n=*,*+k=*,*+g=*,*+kk=*,*+q=*,*+s=*,*+z=*,*+sh=*,*+j=*,*+y=*,*+x=*,*+gh=*,*+ch=*,*+c=*,*+l=*,*+r=*}
+QS  "R-Dilonu_Consonant"		{*+t=*,*+d=*,*+s=*,*+z=*,*+n=*,*+l=*,*+sh=*,*+j=*,*+ch=*,*+c=*,*+r=*}
+QS  "R-Dilortasi_Consonant"	{*+k=*,*+g=*,*+y=*}
+QS  "R-Dilarxasi_Consonant"	{*+kk=*,*+q=*,*+x=*,*+gh=*,*+c=*}
+QS  "R-Kipleshen_Consonant"	{*+p=*,*+b=*,*+m=*,*+t=*,*+d=*,*+n=*,*+k=*,*+g=*,*+kk=*,*+q=*,*+n=*}
+QS  "R-Novlu_Consonant"		{*+f=*,*+v=*,*+s=*,*+z=*,*+sh=*,*+j=*,*+y=*,*+x=*,*+gh=*,*+h=*}
+QS  "R-Kipleshen_Novlu"	{*+ch=*,*+c=*}
+QS  "R-Qoshadodaq_Consonant"	{*+p=*,*+b=*,*+m=*}
+QS  "R-Dodaq_Dish"	{*+f=*,*+v=*}
+QS  "R-Dilonu_Dish"	{*+t=*,*+d=*,*+s=*,*+z=*,*+l=*,*+n=*}
+QS  "R-Dilonu_Yuvaq"	{*+sh=*,*+j=*,*+ch=*,*+c=*,*+r=*}
+QS  "R-Dilortasi_Sert_Damaq"	{*+k=*,*+g=*,*+y=*}
+QS  "R-Dilarxasi_Yumshaq_Damaq"	{*+kk=*,*+q=*,*+x=*,*+gh=*}
+QS  "R-Dilonu_Dish_Kipleshen"	{*+t=*,*+d=*,*+n=*}
+QS  "R-Dilonu_Dish_Novlu"		{*+s=*,*+z=*}
+QS  "R-Dilonu_Yuvaq_Novlu"		{*+sh=*,*+j=*}
+QS  "R-Dilonu_Yuvaq_Kipleshen_Novlu"	{*+ch=*,*+c=*}
+QS  "R-Dilortasi_Sert_Damaq_Kipleshen"	{*+k=*,*+g=*}
+QS  "R-Dilarxasi_Yumshaq_Damaq_Kipleshen"	{*+kk=*,*+q=*}
+QS  "R-Dilarxasi_Yumshaq_Damaq_Novlu"		{*+x=*,*+gh=*}
+QS  "R-Kar_Consonant"		{*+ch=*,*+f=*,*+h=*,*+kk=*,*+p=*,*+s=*,*+t=*,*+x=*}
+QS  "R-Cingiltili_Consonant"	{*+b=*,*+c=*,*+d=*,*+g=*,*+gh=*,*+q=*,*+v=*,*+y=*,*+z=*,*+l=*,*+m=*,*+n=*,*+r=*}
+QS  "R-Kar_Dodaq"		{*+p=*,*+f=*}
+QS  "R-Kar_Dil"		{*+t=*,*+k=*,*+kk=*,*+s=*,*+sh=*,*+x=*,*+ch=*}
+QS  "R-Cingiltili_Dodaq"	{*+b=*,*+v=*,*+m=*}
+QS  "R-Cingiltili_Dil"	{*+d=*,*+n=*,*+g=*,*+q=*,*+z=*,*+j=*,*+y=*,*+gh=*,*+c=*,*+l=*,*+r=*}
+QS  "R-Kar_Dilonu"			{*+t=*,*+s=*,*+sh=*,*+ch=*}
+QS  "R-Kar_Dilarxasi"		{*+k=*,*+x=*}
+QS  "R-Cingiltili_Dilonu"		{*+d=*,*+z=*,*+n=*,*+l=*,*+j=*,*+c=*,*+r=*}
+QS  "R-Cingiltili_Dilortasi"	{*+g=*,*+y=*}
+QS  "R-Cingiltili_Dilarxasi"	{*+q=*,*+gh=*,*+c=*}
+QS  "R-Kar_Kipleshen"	{*+p=*,*+t=*,*+k=*,*+kk=*}
+QS  "R-Kar_Novlu"		{*+f=*,*+s=*,*+sh=*,*+x=*,*+h=*}
+QS  "R-Cingiltili_Kipleshen"	{*+b=*,*+m=*,*+d=*,*+n=*,*+g=*,*+q=*}
+QS  "R-Cingiltili_Novlu"		{*+v=*,*+z=*,*+j=*,*+y=*,*+gh=*}
+QS  "R-Sonor_Consonant"	{*+l=*,*+m=*,*+n=*,*+r=*}
+QS  "R-Kuylu_Consonant"	{*+b=*,*+c=*,*+ch=*,*+d=*,*+f=*,*+g=*,*+gh=*,*+h=*,*+kk=*,*+p=*,*+q=*,*+s=*,*+t=*,*+v=*,*+x=*,*+y=*,*+z=*}
+QS  "R-Dilonu_Vowel"		{*+i=*,*+u=*,*+oo=*,*+ee=*}
+QS  "R-Dilortasi_Vowel"		{*+e=*}
+QS  "R-Dilarxasi_Vowel"	{*+u=*,*+o=*,*+ii=*,*+a=*}
+QS  "R-Qapali_Vowel"		{*+u=*,*+i=*,*+uu=*,*+ii=*}
+QS  "R-Achiq_Vowel"		{*+o=*,*+a=*,*+oo=*,*+ee=*}
+QS  "R-Dodaqlanan_Vowel"	{*+uu=*,*+u=*,*+oo=*,*+o=*}
+QS  "R-Dodaqlanmayan_Vowel"	{*+i=*,*+e=*,*+ee=*,*+ii=*,*+a=*}
+QS  "R-On_Sira_Qapali"  {*+i=*,*+uu=*}
+QS  "R-On_Sira_Achiq"  {*+oo=*,*+ee=*}
+QS  "R-Arxa_Sira_Qapali"  {*+ii=*,*+u=*}
+QS  "R-Arxa_Sira_Achiq"  {*+o=*,*+a=*}
+QS  "R-On_Sira_Dodaqlanan"  {*+uu=*,*+oo=*}
+QS  "R-On_Sira_Dodaqlanmayan"  {*+i=*,*+ee=*}
+QS  "R-Arxa_Sira_Dodaqlanan"  {*+u=*,*+o=*}
+QS  "R-Arxa_Sira_Dodaqlanmayan"  {*+ii=*,*+a=*}
+QS  "R-Qapali_Dodaqlanan" {*+u=*,*+uu=*}
+QS  "R-Qapali_Dodaqlanmayan" {*+i=*,*+ii=*}
+QS  "R-Achiq_Dodaqlanan" {*+o=*,*+oo=*}
+QS  "R-Achiq_Dodaqlanmayan" {*+a=*,*+ee=*}
+QS  "R-silences"			{*+sil=*,*+pau=*}
+QS  "R-a"		{*+a=*}
+QS  "R-e"		{*+e=*}
+QS  "R-ee"		{*+ee=*}
+QS  "R-i"		{*+i=*}
+QS  "R-ii"		{*+ii=*}
+QS  "R-o"		{*+o=*}
+QS  "R-oo"		{*+oo=*}
+QS  "R-u"		{*+u=*}
+QS  "R-uu"		{*+uu=*}
+QS  "R-b"		{*+b=*}
+QS  "R-c"		{*+c=*}
+QS  "R-ch"		{*+ch=*}
+QS  "R-d"		{*+d=*}
+QS  "R-f"		{*+f=*}
+QS  "R-g"		{*+g=*}
+QS  "R-gh"		{*+gh=*}
+QS  "R-h"		{*+h=*}
+QS  "R-j"		{*+j=*}
+QS  "R-k"		{*+k=*}
+QS  "R-kk"		{*+kk=*}
+QS  "R-l"		{*+l=*}
+QS  "R-m"		{*+m=*}
+QS  "R-n"		{*+n=*}
+QS  "R-p"		{*+p=*}
+QS  "R-q"		{*+q=*}
+QS  "R-r"		{*+r=*}
+QS  "R-s"		{*+s=*}
+QS  "R-t"		{*+t=*}
+QS  "R-v"		{*+v=*}
+QS  "R-x"		{*+x=*}
+QS  "R-y"		{*+y=*}
+QS  "R-z"		{*+z=*}
+QS  "R-sil"		{*+sil=*}
+QS  "R-pau"		{*+pau=*}
+QS  "R-h#"		{*+h#=*}
+QS  "R-brth"		{*+brth=*}
+
+
+QS "RR-Vowel"				{*=a@*,*=ee@*,*=e@*,*=oo@*,*=o@*,*=uu@*,*=u@*,*=ii@*,*=i@*}
+QS "RR-Consonant"			{*=b@*,*=c@*,*=d@*,*=gh@*,*=g@*,*=q@*,*=v@*,*=y@*,*=z@*,*=l@*,*=m@*,*=n@*,*=r@*,*=ch@*,*=f@*,*=h@*,*=kk@*,*=k@*,*=p@*,*=sh@*,*=s@*,*=t@*,*=j@*}
+QS  "RR-Dilonu"		{*=t@*,*=d@*,*=s@*,*=z@*,*=n@*,*=l@*,*=sh@*,*=j@*,*=ch@*,*=c@*,*=r@*,*=i@*,*=u@*,*=oo@*,*=ee@*}
+QS  "RR-Dilortasi"		{*=k@*,*=g@*,*=y@*,*=e@*}
+QS  "RR-Dilarxasi"		{*=kk@*,*=q@*,*=x@*,*=gh@*,*=c@*,*=u@*,*=o@*,*=ii@*,*=a@*}
+QS  "RR-Dodaq_Consonant"		{*=p@*,*=b@*,*=v@*,*=f@*,*=m@*}
+QS  "RR-Dil_Consonant"		{*=t@*,*=d@*,*=n@*,*=k@*,*=g@*,*=kk@*,*=q@*,*=s@*,*=z@*,*=sh@*,*=j@*,*=y@*,*=x@*,*=gh@*,*=ch@*,*=c@*,*=l@*,*=r@*}
+QS  "RR-Dilonu_Consonant"		{*=t@*,*=d@*,*=s@*,*=z@*,*=n@*,*=l@*,*=sh@*,*=j@*,*=ch@*,*=c@*,*=r@*}
+QS  "RR-Dilortasi_Consonant"	{*=k@*,*=g@*,*=y@*}
+QS  "RR-Dilarxasi_Consonant"	{*=kk@*,*=q@*,*=x@*,*=gh@*,*=c@*}
+QS  "RR-Kipleshen_Consonant"	{*=p@*,*=b@*,*=m@*,*=t@*,*=d@*,*=n@*,*=k@*,*=g@*,*=kk@*,*=q@*,*=n@*}
+QS  "RR-Novlu_Consonant"		{*=f@*,*=v@*,*=s@*,*=z@*,*=sh@*,*=j@*,*=y@*,*=x@*,*=gh@*,*=h@*}
+QS  "RR-Kipleshen_Novlu"	{*=ch@*,*=c@*}
+QS  "RR-Qoshadodaq_Consonant"	{*=p@*,*=b@*,*=m@*}
+QS  "RR-Dodaq_Dish"	{*=f@*,*=v@*}
+QS  "RR-Dilonu_Dish"	{*=t@*,*=d@*,*=s@*,*=z@*,*=l@*,*=n@*}
+QS  "RR-Dilonu_Yuvaq"	{*=sh@*,*=j@*,*=ch@*,*=c@*,*=r@*}
+QS  "RR-Dilortasi_Sert_Damaq"	{*=k@*,*=g@*,*=y@*}
+QS  "RR-Dilarxasi_Yumshaq_Damaq"	{*=kk@*,*=q@*,*=x@*,*=gh@*}
+QS  "RR-Dilonu_Dish_Kipleshen"	{*=t@*,*=d@*,*=n@*}
+QS  "RR-Dilonu_Dish_Novlu"		{*=s@*,*=z@*}
+QS  "RR-Dilonu_Yuvaq_Novlu"		{*=sh@*,*=j@*}
+QS  "RR-Dilonu_Yuvaq_Kipleshen_Novlu"	{*=ch@*,*=c@*}
+QS  "RR-Dilortasi_Sert_Damaq_Kipleshen"	{*=k@*,*=g@*}
+QS  "RR-Dilarxasi_Yumshaq_Damaq_Kipleshen"	{*=kk@*,*=q@*}
+QS  "RR-Dilarxasi_Yumshaq_Damaq_Novlu"		{*=x@*,*=gh@*}
+QS  "RR-Kar_Consonant"		{*=ch@*,*=f@*,*=h@*,*=kk@*,*=p@*,*=s@*,*=t@*,*=x@*}
+QS  "RR-Cingiltili_Consonant"	{*=b@*,*=c@*,*=d@*,*=g@*,*=gh@*,*=q@*,*=v@*,*=y@*,*=z@*,*=l@*,*=m@*,*=n@*,*=r@*}
+QS  "RR-Kar_Dodaq"		{*=p@*,*=f@*}
+QS  "RR-Kar_Dil"		{*=t@*,*=k@*,*=kk@*,*=s@*,*=sh@*,*=x@*,*=ch@*}
+QS  "RR-Cingiltili_Dodaq"	{*=b@*,*=v@*,*=m@*}
+QS  "RR-Cingiltili_Dil"	{*=d@*,*=n@*,*=g@*,*=q@*,*=z@*,*=j@*,*=y@*,*=gh@*,*=c@*,*=l@*,*=r@*}
+QS  "RR-Kar_Dilonu"			{*=t@*,*=s@*,*=sh@*,*=ch@*}
+QS  "RR-Kar_Dilarxasi"		{*=k@*,*=x@*}
+QS  "RR-Cingiltili_Dilonu"		{*=d@*,*=z@*,*=n@*,*=l@*,*=j@*,*=c@*,*=r@*}
+QS  "RR-Cingiltili_Dilortasi"	{*=g@*,*=y@*}
+QS  "RR-Cingiltili_Dilarxasi"	{*=q@*,*=gh@*,*=c@*}
+QS  "RR-Kar_Kipleshen"	{*=p@*,*=t@*,*=k@*,*=kk@*}
+QS  "RR-Kar_Novlu"		{*=f@*,*=s@*,*=sh@*,*=x@*,*=h@*}
+QS  "RR-Cingiltili_Kipleshen"	{*=b@*,*=m@*,*=d@*,*=n@*,*=g@*,*=q@*}
+QS  "RR-Cingiltili_Novlu"		{*=v@*,*=z@*,*=j@*,*=y@*,*=gh@*}
+QS  "RR-Sonor_Consonant"	{*=l@*,*=m@*,*=n@*,*=r@*}
+QS  "RR-Kuylu_Consonant"	{*=b@*,*=c@*,*=ch@*,*=d@*,*=f@*,*=g@*,*=gh@*,*=h@*,*=kk@*,*=p@*,*=q@*,*=s@*,*=t@*,*=v@*,*=x@*,*=y@*,*=z@*}
+QS  "RR-Dilonu_Vowel"		{*=i@*,*=u@*,*=oo@*,*=ee@*}
+QS  "RR-Dilortasi_Vowel"		{*=e@*}
+QS  "RR-Dilarxasi_Vowel"	{*=u@*,*=o@*,*=ii@*,*=a@*}
+QS  "RR-Qapali_Vowel"		{*=u@*,*=i@*,*=uu@*,*=ii@*}
+QS  "RR-Achiq_Vowel"		{*=o@*,*=a@*,*=oo@*,*=ee@*}
+QS  "RR-Dodaqlanan_Vowel"	{*=uu@*,*=u@*,*=oo@*,*=o@*}
+QS  "RR-Dodaqlanmayan_Vowel"	{*=i@*,*=e@*,*=ee@*,*=ii@*,*=a@*}
+QS  "RR-On_Sira_Qapali"  {*=i@*,*=uu@*}
+QS  "RR-On_Sira_Achiq"  {*=oo@*,*=ee@*}
+QS  "RR-Arxa_Sira_Qapali"  {*=ii@*,*=u@*}
+QS  "RR-Arxa_Sira_Achiq"  {*=o@*,*=a@*}
+QS  "RR-On_Sira_Dodaqlanan"  {*=uu@*,*=oo@*}
+QS  "RR-On_Sira_Dodaqlanmayan"  {*=i@*,*=ee@*}
+QS  "RR-Arxa_Sira_Dodaqlanan"  {*=u@*,*=o@*}
+QS  "RR-Arxa_Sira_Dodaqlanmayan"  {*=ii@*,*=a@*}
+QS  "RR-Qapali_Dodaqlanan" {*=u@*,*=uu@*}
+QS  "RR-Qapali_Dodaqlanmayan" {*=i@*,*=ii@*}
+QS  "RR-Achiq_Dodaqlanan" {*=o@*,*=oo@*}
+QS  "RR-Achiq_Dodaqlanmayan" {*=a@*,*=ee@*}
+QS  "RR-silences"			{*=sil@*,*=pau@*}
+QS  "RR-a"		{*=a@*}
+QS  "RR-e"		{*=e@*}
+QS  "RR-ee"		{*=ee@*}
+QS  "RR-i"		{*=i@*}
+QS  "RR-ii"		{*=ii@*}
+QS  "RR-o"		{*=o@*}
+QS  "RR-oo"		{*=oo@*}
+QS  "RR-u"		{*=u@*}
+QS  "RR-uu"		{*=uu@*}
+QS  "RR-b"		{*=b@*}
+QS  "RR-c"		{*=c@*}
+QS  "RR-ch"		{*=ch@*}
+QS  "RR-d"		{*=d@*}
+QS  "RR-f"		{*=f@*}
+QS  "RR-g"		{*=g@*}
+QS  "RR-gh"		{*=gh@*}
+QS  "RR-h"		{*=h@*}
+QS  "RR-j"		{*=j@*}
+QS  "RR-k"		{*=k@*}
+QS  "RR-kk"		{*=kk@*}
+QS  "RR-l"		{*=l@*}
+QS  "RR-m"		{*=m@*}
+QS  "RR-n"		{*=n@*}
+QS  "RR-p"		{*=p@*}
+QS  "RR-q"		{*=q@*}
+QS  "RR-r"		{*=r@*}
+QS  "RR-s"		{*=s@*}
+QS  "RR-t"		{*=t@*}
+QS  "RR-v"		{*=v@*}
+QS  "RR-x"		{*=x@*}
+QS  "RR-y"		{*=y@*}
+QS  "RR-z"		{*=z@*}
+QS  "RR-sil"		{*=sil@*}
+QS  "RR-pau"		{*=pau@*}
+QS  "RR-h#"		{*=h#@*}
+QS  "RR-brth"		{*=brth@*}
+
+
+
+QS "Seg_Fw==xx"	{*@xx_*}
+QS "Seg_Fw==1"	{*@1_*}
+QS "Seg_Fw==2"	{*@2_*}
+QS "Seg_Fw==3"	{*@3_*}
+QS "Seg_Fw==4"	{*@4_*}
+QS "Seg_Fw==5"	{*@5_*}
+QS "Seg_Fw==6"	{*@6_*}
+QS "Seg_Fw==7"	{*@7_*}
+
+QS "Seg_Fw<=1"	{*@xx_*,*@1_*}
+QS "Seg_Fw<=2"	{*@xx_*,*@1_*,*@2_*}
+QS "Seg_Fw<=3"	{*@xx_*,*@1_*,*@2_*,*@3_*}
+QS "Seg_Fw<=4"	{*@xx_*,*@1_*,*@2_*,*@3_*,*@4_*}
+QS "Seg_Fw<=5"	{*@xx_*,*@1_*,*@2_*,*@3_*,*@4_*,*@5_*}
+QS "Seg_Fw<=6"	{*@xx_*,*@1_*,*@2_*,*@3_*,*@4_*,*@5_*,*@6_*}
+QS "Seg_Fw<=7"	{*@xx_*,*@1_*,*@2_*,*@3_*,*@4_*,*@5_*,*@6_*,*@7_*}
+
+
+
+QS "Seg_Bw==xx"	{*_xx/A:*}
+QS "Seg_Bw==1"	{*_1/A:*}
+QS "Seg_Bw==2"	{*_2/A:*}
+QS "Seg_Bw==3"	{*_3/A:*}
+QS "Seg_Bw==4"	{*_4/A:*}
+QS "Seg_Bw==5"	{*_5/A:*}
+QS "Seg_Bw==6"	{*_6/A:*}
+QS "Seg_Bw==7"	{*_7/A:*}
+
+QS "Seg_Bw<=0"	{*_xx/A:*,*_0/A:*}
+QS "Seg_Bw<=1"	{*_xx/A:*,*_0/A:*,*_1/A:*}
+QS "Seg_Bw<=2"	{*_xx/A:*,*_0/A:*,*_1/A:*,*_2/A:*}
+QS "Seg_Bw<=3"	{*_xx/A:*,*_0/A:*,*_1/A:*,*_2/A:*,*_3/A:*}
+QS "Seg_Bw<=4"	{*_xx/A:*,*_0/A:*,*_1/A:*,*_2/A:*,*_3/A:*,*_4/A:*}
+QS "Seg_Bw<=5"	{*_xx/A:*,*_0/A:*,*_1/A:*,*_2/A:*,*_3/A:*,*_4/A:*,*_5/A:*}
+QS "Seg_Bw<=6"	{*_xx/A:*,*_0/A:*,*_1/A:*,*_2/A:*,*_3/A:*,*_4/A:*,*_5/A:*,*_6/A:*}
+QS "Seg_Bw<=7"	{*_xx/A:*,*_0/A:*,*_1/A:*,*_2/A:*,*_3/A:*,*_4/A:*,*_5/A:*,*_6/A:*,*_7/A:*}
+
+
+
+QS "L-Syl_Stress==1"		{*/A:1_*}
+QS "L-Syl_Stress==0"		{*/A:0_*}
+
+
+
+QS "L-Syl_Accent==1"		{*_1_*}
+QS "L-Syl_Accent==0"		{*_0_*}
+
+
+
+QS "L-Syl_Num-Segs==0"	{*_0/B:*}
+QS "L-Syl_Num-Segs==1"	{*_1/B:*}
+QS "L-Syl_Num-Segs==2"	{*_2/B:*}
+QS "L-Syl_Num-Segs==3"	{*_3/B:*}
+QS "L-Syl_Num-Segs==4"	{*_4/B:*}
+QS "L-Syl_Num-Segs==5"	{*_5/B:*}
+QS "L-Syl_Num-Segs==6"	{*_6/B:*}
+QS "L-Syl_Num-Segs==7"	{*_7/B:*}
+
+QS "L-Syl_Num-Segs<=1"	{*_0/B:*,*_1/B:*}
+QS "L-Syl_Num-Segs<=2"	{*_0/B:*,*_1/B:*,*_2/B:*}
+QS "L-Syl_Num-Segs<=3"	{*_0/B:*,*_1/B:*,*_2/B:*,*_3/B:*}
+QS "L-Syl_Num-Segs<=4"	{*_0/B:*,*_1/B:*,*_2/B:*,*_3/B:*,*_4/B:*}
+QS "L-Syl_Num-Segs<=5"	{*_0/B:*,*_1/B:*,*_2/B:*,*_3/B:*,*_4/B:*,*_5/B:*}
+QS "L-Syl_Num-Segs<=6"	{*_0/B:*,*_1/B:*,*_2/B:*,*_3/B:*,*_4/B:*,*_5/B:*,*_6/B:*}
+QS "L-Syl_Num-Segs<=7"	{*_0/B:*,*_1/B:*,*_2/B:*,*_3/B:*,*_4/B:*,*_5/B:*,*_6/B:*,*_7/B:*}
+
+
+
+QS "C-Syl_Stress==1"		{*/B:1-*}
+QS "C-Syl_Stress==0"		{*/B:0-*}
+QS "C-Syl_Stress==xx"		{*/B:xx-*}
+
+
+
+QS "C-Syl_Accent==1"		{*-1-*}
+QS "C-Syl_Accent==0"		{*-0-*}
+QS "C-Syl_Accent==xx"		{*-xx-*}
+
+
+
+QS "C-Syl_Num-Segs==xx"	{*-xx@*}
+QS "C-Syl_Num-Segs==1"	{*-1@*}
+QS "C-Syl_Num-Segs==2"	{*-2@*}
+QS "C-Syl_Num-Segs==3"	{*-3@*}
+QS "C-Syl_Num-Segs==4"	{*-4@*}
+QS "C-Syl_Num-Segs==5"	{*-5@*}
+QS "C-Syl_Num-Segs==6"	{*-6@*}
+QS "C-Syl_Num-Segs==7"	{*-7@*}
+
+QS "C-Syl_Num-Segs<=1"	{*-xx@*,*-1@*}
+QS "C-Syl_Num-Segs<=2"	{*-xx@*,*-1@*,*-2@*}
+QS "C-Syl_Num-Segs<=3"	{*-xx@*,*-1@*,*-2@*,*-3@*}
+QS "C-Syl_Num-Segs<=4"	{*-xx@*,*-1@*,*-2@*,*-3@*,*-4@*}
+QS "C-Syl_Num-Segs<=5"	{*-xx@*,*-1@*,*-2@*,*-3@*,*-4@*,*-5@*}
+QS "C-Syl_Num-Segs<=6"	{*-xx@*,*-1@*,*-2@*,*-3@*,*-4@*,*-5@*,*-6@*}
+QS "C-Syl_Num-Segs<=7"	{*-xx@*,*-1@*,*-2@*,*-3@*,*-4@*,*-5@*,*-6@*,*-7@*}
+
+
+
+QS "Pos_C-Syl_in_C-Word(Fw)==xx"	{*@xx-*}
+QS "Pos_C-Syl_in_C-Word(Fw)==1"	{*@1-*}
+QS "Pos_C-Syl_in_C-Word(Fw)==2"	{*@2-*}
+QS "Pos_C-Syl_in_C-Word(Fw)==3"	{*@3-*}
+QS "Pos_C-Syl_in_C-Word(Fw)==4"	{*@4-*}
+QS "Pos_C-Syl_in_C-Word(Fw)==5"	{*@5-*}
+QS "Pos_C-Syl_in_C-Word(Fw)==6"	{*@6-*}
+QS "Pos_C-Syl_in_C-Word(Fw)==7"	{*@7-*}
+
+QS "Pos_C-Syl_in_C-Word(Fw)<=1"	{*@xx-*,*@1-*}
+QS "Pos_C-Syl_in_C-Word(Fw)<=2"	{*@xx-*,*@1-*,*@2-*}
+QS "Pos_C-Syl_in_C-Word(Fw)<=3"	{*@xx-*,*@1-*,*@2-*,*@3-*}
+QS "Pos_C-Syl_in_C-Word(Fw)<=4"	{*@xx-*,*@1-*,*@2-*,*@3-*,*@4-*}
+QS "Pos_C-Syl_in_C-Word(Fw)<=5"	{*@xx-*,*@1-*,*@2-*,*@3-*,*@4-*,*@5-*}
+QS "Pos_C-Syl_in_C-Word(Fw)<=6"	{*@xx-*,*@1-*,*@2-*,*@3-*,*@4-*,*@5-*,*@6-*}
+QS "Pos_C-Syl_in_C-Word(Fw)<=7"	{*@xx-*,*@1-*,*@2-*,*@3-*,*@4-*,*@5-*,*@6-*,*@7-*}
+
+
+
+QS "Pos_C-Syl_in_C-Word(Bw)==xx"	{*-xx&*}
+QS "Pos_C-Syl_in_C-Word(Bw)==1"	{*-1&*}
+QS "Pos_C-Syl_in_C-Word(Bw)==2"	{*-2&*}
+QS "Pos_C-Syl_in_C-Word(Bw)==3"	{*-3&*}
+QS "Pos_C-Syl_in_C-Word(Bw)==4"	{*-4&*}
+QS "Pos_C-Syl_in_C-Word(Bw)==5"	{*-5&*}
+QS "Pos_C-Syl_in_C-Word(Bw)==6"	{*-6&*}
+QS "Pos_C-Syl_in_C-Word(Bw)==7"	{*-7&*}
+
+QS "Pos_C-Syl_in_C-Word(Bw)<=1"	{*-xx&*,*-1&*}
+QS "Pos_C-Syl_in_C-Word(Bw)<=2"	{*-xx&*,*-1&*,*-2&*}
+QS "Pos_C-Syl_in_C-Word(Bw)<=3"	{*-xx&*,*-1&*,*-2&*,*-3&*}
+QS "Pos_C-Syl_in_C-Word(Bw)<=4"	{*-xx&*,*-1&*,*-2&*,*-3&*,*-4&*}
+QS "Pos_C-Syl_in_C-Word(Bw)<=5"	{*-xx&*,*-1&*,*-2&*,*-3&*,*-4&*,*-5&*}
+QS "Pos_C-Syl_in_C-Word(Bw)<=6"	{*-xx&*,*-1&*,*-2&*,*-3&*,*-4&*,*-5&*,*-6&*}
+QS "Pos_C-Syl_in_C-Word(Bw)<=7"	{*-xx&*,*-1&*,*-2&*,*-3&*,*-4&*,*-5&*,*-6&*,*-7&*}
+
+
+
+QS "Pos_C-Syl_in_C-Phrase(Fw)==xx"	{*&xx-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==1"	{*&1-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==2"	{*&2-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==3"	{*&3-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==4"	{*&4-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==5"	{*&5-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==6"	{*&6-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==7"	{*&7-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==8"	{*&8-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==9"	{*&9-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==10"	{*&10-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==11"	{*&11-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==12"	{*&12-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==13"	{*&13-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==14"	{*&14-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==15"	{*&15-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==16"	{*&16-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==17"	{*&17-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==18"	{*&18-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==19"	{*&19-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)==20"	{*&20-*}
+
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=1"	{*&xx-*,*&0-*,*&1-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=2"	{*&xx-*,*&0-*,*&1-*,*&2-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=3"	{*&xx-*,*&0-*,*&1-*,*&2-*,*&3-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=4"	{*&xx-*,*&0-*,*&1-*,*&2-*,*&3-*,*&4-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=5"	{*&xx-*,*&0-*,*&1-*,*&2-*,*&3-*,*&4-*,*&5-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=6"	{*&xx-*,*&0-*,*&1-*,*&2-*,*&3-*,*&4-*,*&5-*,*&6-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=7"	{*&xx-*,*&0-*,*&1-*,*&2-*,*&3-*,*&4-*,*&5-*,*&6-*,*&7-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=8"	{*&xx-*,*&0-*,*&1-*,*&2-*,*&3-*,*&4-*,*&5-*,*&6-*,*&7-*,*&8-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=9"	{*&?-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=10"	{*&?-*,*&10-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=11"	{*&?-*,*&10-*,*&11-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=12"	{*&?-*,*&10-*,*&11-*,*&12-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=13"	{*&?-*,*&10-*,*&11-*,*&12-*,*&13-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=14"	{*&?-*,*&10-*,*&11-*,*&12-*,*&13-*,*&14-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=15"	{*&?-*,*&10-*,*&11-*,*&12-*,*&13-*,*&14-*,*&15-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=16"	{*&?-*,*&10-*,*&11-*,*&12-*,*&13-*,*&14-*,*&15-*,*&16-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=17"	{*&?-*,*&10-*,*&11-*,*&12-*,*&13-*,*&14-*,*&15-*,*&16-*,*&17-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=18"	{*&?-*,*&10-*,*&11-*,*&12-*,*&13-*,*&14-*,*&15-*,*&16-*,*&17-*,*&18-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=19"	{*&?-*,*&1?-*}
+QS "Pos_C-Syl_in_C-Phrase(Fw)<=20"	{*&?-*,*&1?-*,*&20-*}
+
+
+
+QS "Pos_C-Syl_in_C-Phrase(Bw)==xx"	{*-xx#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==1"	{*-1#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==2"	{*-2#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==3"	{*-3#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==4"	{*-4#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==5"	{*-5#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==6"	{*-6#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==7"	{*-7#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==8"	{*-8#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==9"	{*-9#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==10"	{*-10#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==11"	{*-11#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==12"	{*-12#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==13"	{*-13#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==14"	{*-14#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==15"	{*-15#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==16"	{*-16#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==17"	{*-17#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==18"	{*-18#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==19"	{*-19#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)==20"	{*-20#*}
+
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=1"	{*-xx#*,*-1#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=2"	{*-xx#*,*-1#*,*-2#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=3"	{*-xx#*,*-1#*,*-2#*,*-3#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=4"	{*-xx#*,*-1#*,*-2#*,*-3#*,*-4#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=5"	{*-xx#*,*-1#*,*-2#*,*-3#*,*-4#*,*-5#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=6"	{*-xx#*,*-1#*,*-2#*,*-3#*,*-4#*,*-5#*,*-6#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=7"	{*-xx#*,*-1#*,*-2#*,*-3#*,*-4#*,*-5#*,*-6#*,*-7#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=8"	{*-xx#*,*-1#*,*-2#*,*-3#*,*-4#*,*-5#*,*-6#*,*-7#*,*-8#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=9"	{*-?#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=10"	{*-?#*,*-10#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=11"	{*-?#*,*-10#*,*-11#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=12"	{*-?#*,*-10#*,*-11#*,*-12#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=13"	{*-?#*,*-10#*,*-11#*,*-12#*,*-13#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=14"	{*-?#*,*-10#*,*-11#*,*-12#*,*-13#*,*-14#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=15"	{*-?#*,*-10#*,*-11#*,*-12#*,*-13#*,*-14#*,*-15#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=16"	{*-?#*,*-10#*,*-11#*,*-12#*,*-13#*,*-14#*,*-15#*,*-16#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=17"	{*-?#*,*-10#*,*-11#*,*-12#*,*-13#*,*-14#*,*-15#*,*-16#*,*-17#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=18"	{*-?#*,*-10#*,*-11#*,*-12#*,*-13#*,*-14#*,*-15#*,*-16#*,*-17#*,*-18#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=19"	{*-?#*,*-1?#*}
+QS "Pos_C-Syl_in_C-Phrase(Bw)<=20"	{*-?#*,*-1?#*,*-20#*}
+
+
+
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==xx"	{*#xx-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==1"	{*#1-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==2"	{*#2-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==3"	{*#3-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==4"	{*#4-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==5"	{*#5-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==6"	{*#6-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==7"	{*#7-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==8"	{*#8-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==9"	{*#9-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==10"	{*#10-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==11"	{*#11-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase==12"	{*#12-*}
+
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase<=1"	{*#xx-*,*#1-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase<=2"	{*#xx-*,*#1-*,*#2-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase<=3"	{*#xx-*,*#1-*,*#2-*,*#3-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase<=4"	{*#xx-*,*#1-*,*#2-*,*#3-*,*#4-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase<=5"	{*#xx-*,*#1-*,*#2-*,*#3-*,*#4-*,*#5-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase<=6"	{*#xx-*,*#1-*,*#2-*,*#3-*,*#4-*,*#5-*,*#6-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase<=7"	{*#xx-*,*#1-*,*#2-*,*#3-*,*#4-*,*#5-*,*#6-*,*#7-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase<=8"	{*#xx-*,*#1-*,*#2-*,*#3-*,*#4-*,*#5-*,*#6-*,*#7-*,*#8-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase<=9"	{*#?-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase<=10"	{*#?-*,*#10-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase<=11"	{*#?-*,*#10-*,*#11-*}
+QS "Num-StressedSyl_before_C-Syl_in_C-Phrase<=12"	{*#?-*,*#10-*,*#11-*,*#12-*}
+
+
+
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==xx"		{*-xx$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==1"		{*-1$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==2"		{*-2$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==3"		{*-3$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==4"		{*-4$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==5"		{*-5$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==6"		{*-6$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==7"		{*-7$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==8"		{*-8$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==9"		{*-9$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==10"	{*-10$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==11"	{*-11$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase==12"	{*-12$*}
+
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase<=1"		{*-xx$*,*-1$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase<=2"		{*-xx$*,*-1$*,*-2$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase<=3"		{*-xx$*,*-1$*,*-2$*,*-3$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase<=4"		{*-xx$*,*-1$*,*-2$*,*-3$*,*-4$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase<=5"		{*-xx$*,*-1$*,*-2$*,*-3$*,*-4$*,*-5$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase<=6"		{*-xx$*,*-1$*,*-2$*,*-3$*,*-4$*,*-5$*,*-6$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase<=7"		{*-xx$*,*-1$*,*-2$*,*-3$*,*-4$*,*-5$*,*-6$*,*-7$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase<=8"		{*-xx$*,*-1$*,*-2$*,*-3$*,*-4$*,*-5$*,*-6$*,*-7$*,*-8$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase<=9"		{*-?$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase<=10"	{*-?$*,*-10$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase<=11"	{*-?$*,*-10$*,*-11$*}
+QS "Num-StressedSyl_after_C-Syl_in_C-Phrase<=12"	{*-?$*,*-10$*,*-11$*,*-12$*}
+
+
+
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase==xx"	{*$xx-*}
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase==1"	{*$1-*}
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase==2"	{*$2-*}
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase==3"	{*$3-*}
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase==4"	{*$4-*}
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase==5"	{*$5-*}
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase==6"	{*$6-*}
+
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase<=1"	{*$xx-*,*$1-*}
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase<=2"	{*$xx-*,*$1-*,*$2-*}
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase<=3"	{*$xx-*,*$1-*,*$2-*,*$3-*}
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase<=4"	{*$xx-*,*$1-*,*$2-*,*$3-*,*$4-*}
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase<=5"	{*$xx-*,*$1-*,*$2-*,*$3-*,*$4-*,*$5-*}
+QS "Num-AccentedSyl_before_C-Syl_in_C-Phrase<=6"	{*$xx-*,*$1-*,*$2-*,*$3-*,*$4-*,*$5-*,*$6-*}
+
+
+
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase==xx"	{*-xx!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase==1"	{*-1!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase==2"	{*-2!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase==3"	{*-3!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase==4"	{*-4!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase==5"	{*-5!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase==6"	{*-6!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase==7"	{*-7!*}
+
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase<=1"	{*-xx!*,*-1!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase<=2"	{*-xx!*,*-1!*,*-2!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase<=3"	{*-xx!*,*-1!*,*-2!*,*-3!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase<=4"	{*-xx!*,*-1!*,*-2!*,*-3!*,*-4!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase<=5"	{*-xx!*,*-1!*,*-2!*,*-3!*,*-4!*,*-5!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase<=6"	{*-xx!*,*-1!*,*-2!*,*-3!*,*-4!*,*-5!*,*-6!*}
+QS "Num-AccentedSyl_after_C-Syl_in_C-Phrase<=7"	{*-xx!*,*-1!*,*-2!*,*-3!*,*-4!*,*-5!*,*-6!*,*-7!*}
+
+
+
+QS "Num-Syl_from_prev-StressedSyl==xx"	{*!xx-*}
+QS "Num-Syl_from_prev-StressedSyl==0"	{*!0-*}
+QS "Num-Syl_from_prev-StressedSyl==1"	{*!1-*}
+QS "Num-Syl_from_prev-StressedSyl==2"	{*!2-*}
+QS "Num-Syl_from_prev-StressedSyl==3"	{*!3-*}
+QS "Num-Syl_from_prev-StressedSyl==4"	{*!4-*}
+QS "Num-Syl_from_prev-StressedSyl==5"	{*!5-*}
+
+QS "Num-Syl_from_prev-StressedSyl<=0"	{*!xx-*,*!0-*}
+QS "Num-Syl_from_prev-StressedSyl<=1"	{*!xx-*,*!0-*,*!1-*}
+QS "Num-Syl_from_prev-StressedSyl<=2"	{*!xx-*,*!0-*,*!1-*,*!2-*}
+QS "Num-Syl_from_prev-StressedSyl<=3"	{*!xx-*,*!0-*,*!1-*,*!2-*,*!3-*}
+QS "Num-Syl_from_prev-StressedSyl<=4"	{*!xx-*,*!0-*,*!1-*,*!2-*,*!3-*,*!4-*}
+QS "Num-Syl_from_prev-StressedSyl<=5"	{*!xx-*,*!0-*,*!1-*,*!2-*,*!3-*,*!4-*,*!5-*}
+
+
+
+QS "Num-Syl_from_next-StressedSyl==xx"	{*-xx;*}
+QS "Num-Syl_from_next-StressedSyl==0"	{*-0;*}
+QS "Num-Syl_from_next-StressedSyl==1"	{*-1;*}
+QS "Num-Syl_from_next-StressedSyl==2"	{*-2;*}
+QS "Num-Syl_from_next-StressedSyl==3"	{*-3;*}
+QS "Num-Syl_from_next-StressedSyl==4"	{*-4;*}
+QS "Num-Syl_from_next-StressedSyl==5"	{*-5;*}
+
+QS "Num-Syl_from_next-StressedSyl<=0"	{*-xx;*,*-0;*}
+QS "Num-Syl_from_next-StressedSyl<=1"	{*-xx;*,*-0;*,*-1;*}
+QS "Num-Syl_from_next-StressedSyl<=2"	{*-xx;*,*-0;*,*-1;*,*-2;*}
+QS "Num-Syl_from_next-StressedSyl<=3"	{*-xx;*,*-0;*,*-1;*,*-2;*,*-3;*}
+QS "Num-Syl_from_next-StressedSyl<=4"	{*-xx;*,*-0;*,*-1;*,*-2;*,*-3;*,*-4;*}
+QS "Num-Syl_from_next-StressedSyl<=5"	{*-xx;*,*-0;*,*-1;*,*-2;*,*-3;*,*-4;*,*-5;*}
+
+
+
+QS "Num-Syl_from_prev-AccentedSyl==xx"	{*;xx-*}
+QS "Num-Syl_from_prev-AccentedSyl==0"	{*;0-*}
+QS "Num-Syl_from_prev-AccentedSyl==1"	{*;1-*}
+QS "Num-Syl_from_prev-AccentedSyl==2"	{*;2-*}
+QS "Num-Syl_from_prev-AccentedSyl==3"	{*;3-*}
+QS "Num-Syl_from_prev-AccentedSyl==4"	{*;4-*}
+QS "Num-Syl_from_prev-AccentedSyl==5"	{*;5-*}
+QS "Num-Syl_from_prev-AccentedSyl==6"	{*;6-*}
+QS "Num-Syl_from_prev-AccentedSyl==7"	{*;7-*}
+QS "Num-Syl_from_prev-AccentedSyl==8"	{*;8-*}
+QS "Num-Syl_from_prev-AccentedSyl==9"	{*;9-*}
+QS "Num-Syl_from_prev-AccentedSyl==10"	{*;10-*}
+QS "Num-Syl_from_prev-AccentedSyl==11"	{*;11-*}
+QS "Num-Syl_from_prev-AccentedSyl==12"	{*;12-*}
+QS "Num-Syl_from_prev-AccentedSyl==13"	{*;13-*}
+QS "Num-Syl_from_prev-AccentedSyl==14"	{*;14-*}
+QS "Num-Syl_from_prev-AccentedSyl==15"	{*;15-*}
+QS "Num-Syl_from_prev-AccentedSyl==16"	{*;16-*}
+
+QS "Num-Syl_from_prev-AccentedSyl<=0"	{*;xx-*,*;0-*}
+QS "Num-Syl_from_prev-AccentedSyl<=1"	{*;xx-*,*;0-*,*;1-*}
+QS "Num-Syl_from_prev-AccentedSyl<=2"	{*;xx-*,*;0-*,*;1-*,*;2-*}
+QS "Num-Syl_from_prev-AccentedSyl<=3"	{*;xx-*,*;0-*,*;1-*,*;2-*,*;3-*}
+QS "Num-Syl_from_prev-AccentedSyl<=4"	{*;xx-*,*;0-*,*;1-*,*;2-*,*;3-*,*;4-*}
+QS "Num-Syl_from_prev-AccentedSyl<=5"	{*;xx-*,*;0-*,*;1-*,*;2-*,*;3-*,*;4-*,*;5-*}
+QS "Num-Syl_from_prev-AccentedSyl<=6"	{*;xx-*,*;0-*,*;1-*,*;2-*,*;3-*,*;4-*,*;5-*,*;6-*}
+QS "Num-Syl_from_prev-AccentedSyl<=7"	{*;xx-*,*;0-*,*;1-*,*;2-*,*;3-*,*;4-*,*;5-*,*;6-*,*;7-*}
+QS "Num-Syl_from_prev-AccentedSyl<=8"	{*;xx-*,*;0-*,*;1-*,*;2-*,*;3-*,*;4-*,*;5-*,*;6-*,*;7-*,*;8-*}
+QS "Num-Syl_from_prev-AccentedSyl<=9"	{*;?-*}
+QS "Num-Syl_from_prev-AccentedSyl<=10"	{*;?-*,*;10-*}
+QS "Num-Syl_from_prev-AccentedSyl<=11"	{*;?-*,*;10-*,*;11-*}
+QS "Num-Syl_from_prev-AccentedSyl<=12"	{*;?-*,*;10-*,*;11-*,*;12-*}
+QS "Num-Syl_from_prev-AccentedSyl<=13"	{*;?-*,*;10-*,*;11-*,*;12-*,*;13-*}
+QS "Num-Syl_from_prev-AccentedSyl<=14"	{*;?-*,*;10-*,*;11-*,*;12-*,*;13-*,*;14-*}
+QS "Num-Syl_from_prev-AccentedSyl<=15"	{*;?-*,*;10-*,*;11-*,*;12-*,*;13-*,*;14-*,*;15-*}
+QS "Num-Syl_from_prev-AccentedSyl<=16"	{*;?-*,*;10-*,*;11-*,*;12-*,*;13-*,*;14-*,*;15-*,*;16-*}
+
+
+
+QS "Num-Syl_from_next-AccentedSyl==xx"	{*-xx|*}
+QS "Num-Syl_from_next-AccentedSyl==0"	{*-0|*}
+QS "Num-Syl_from_next-AccentedSyl==1"	{*-1|*}
+QS "Num-Syl_from_next-AccentedSyl==2"	{*-2|*}
+QS "Num-Syl_from_next-AccentedSyl==3"	{*-3|*}
+QS "Num-Syl_from_next-AccentedSyl==4"	{*-4|*}
+QS "Num-Syl_from_next-AccentedSyl==5"	{*-5|*}
+QS "Num-Syl_from_next-AccentedSyl==6"	{*-6|*}
+QS "Num-Syl_from_next-AccentedSyl==7"	{*-7|*}
+QS "Num-Syl_from_next-AccentedSyl==8"	{*-8|*}
+QS "Num-Syl_from_next-AccentedSyl==9"	{*-9|*}
+QS "Num-Syl_from_next-AccentedSyl==10"	{*-10|*}
+QS "Num-Syl_from_next-AccentedSyl==11"	{*-11|*}
+QS "Num-Syl_from_next-AccentedSyl==12"	{*-12|*}
+QS "Num-Syl_from_next-AccentedSyl==13"	{*-13|*}
+QS "Num-Syl_from_next-AccentedSyl==14"	{*-14|*}
+QS "Num-Syl_from_next-AccentedSyl==15"	{*-15|*}
+QS "Num-Syl_from_next-AccentedSyl==16"	{*-16|*}
+
+QS "Num-Syl_from_next-AccentedSyl<=0"	{*-xx|*,*-0|*}
+QS "Num-Syl_from_next-AccentedSyl<=1"	{*-xx|*,*-0|*,*-1|*}
+QS "Num-Syl_from_next-AccentedSyl<=2"	{*-xx|*,*-0|*,*-1|*,*-2|*}
+QS "Num-Syl_from_next-AccentedSyl<=3"	{*-xx|*,*-0|*,*-1|*,*-2|*,*-3|*}
+QS "Num-Syl_from_next-AccentedSyl<=4"	{*-xx|*,*-0|*,*-1|*,*-2|*,*-3|*,*-4|*}
+QS "Num-Syl_from_next-AccentedSyl<=5"	{*-xx|*,*-0|*,*-1|*,*-2|*,*-3|*,*-4|*,*-5|*}
+QS "Num-Syl_from_next-AccentedSyl<=6"	{*-xx|*,*-0|*,*-1|*,*-2|*,*-3|*,*-4|*,*-5|*,*-6|*}
+QS "Num-Syl_from_next-AccentedSyl<=7"	{*-xx|*,*-0|*,*-1|*,*-2|*,*-3|*,*-4|*,*-5|*,*-6|*,*-7|*}
+QS "Num-Syl_from_next-AccentedSyl<=8"	{*-xx|*,*-0|*,*-1|*,*-2|*,*-3|*,*-4|*,*-5|*,*-6|*,*-7|*,*-8|*}
+QS "Num-Syl_from_next-AccentedSyl<=9"	{*-?|*}
+QS "Num-Syl_from_next-AccentedSyl<=10"	{*-?|*,*-10|*}
+QS "Num-Syl_from_next-AccentedSyl<=11"	{*-?|*,*-10|*,*-11|*}
+QS "Num-Syl_from_next-AccentedSyl<=12"	{*-?|*,*-10|*,*-11|*,*-12|*}
+QS "Num-Syl_from_next-AccentedSyl<=13"	{*-?|*,*-10|*,*-11|*,*-12|*,*-13|*}
+QS "Num-Syl_from_next-AccentedSyl<=14"	{*-?|*,*-10|*,*-11|*,*-12|*,*-13|*,*-14|*}
+QS "Num-Syl_from_next-AccentedSyl<=15"	{*-?|*,*-10|*,*-11|*,*-12|*,*-13|*,*-14|*,*-15|*}
+QS "Num-Syl_from_next-AccentedSyl<=16"	{*-?|*,*-10|*,*-11|*,*-12|*,*-13|*,*-14|*,*-15|*,*-16|*}
+
+
+
+QS "C-Syl_Vowel==xx"			{*|xx/C:*}
+QS "C-Syl_Vowel==no"		{*|novowel/C:*}
+QS "C-Syl_Vowel"			{*|a/C:*,*|ee/C:*,*|e/C:*,*|oo/C:*,*|o/C:*,*|uu/C:*,*|u/C:*,*|ii/C:*,*|i/C:*}
+
+QS  "C-Syl_Dilonu_Vowel"		{*|i/C:*,u/C:*,oo/C:*,ee/C:*}
+QS  "C-Syl_Dilortasi_Vowel"		{*|e/C:*}
+QS  "C-Syl_Dilarxasi_Vowel"	{*|u/C:*,o/C:*,ii/C:*,a/C:*}
+QS  "C-Syl_Qapali_Vowel"		{*|u/C:*,i/C:*,uu/C:*,ii/C:*}
+QS  "C-Syl_Achiq_Vowel"		{*|o/C:*,a/C:*,oo/C:*,ee/C:*}
+QS  "C-Syl_Dodaqlanan_Vowel"	{*|uu/C:*,u/C:*,oo/C:*,o/C:*}
+QS  "C-Syl_Dodaqlanmayan_Vowel"	{*|i/C:*,e/C:*,ee/C:*,ii/C:*,a/C:*}
+QS  "C-Syl_On_Sira_Qapali"  {*|i/C:*,uu/C:*}
+QS  "C-Syl_On_Sira_Achiq"  {*|oo/C:*,ee/C:*}
+QS  "C-Syl_Arxa_Sira_Qapali"  {*|ii/C:*,u/C:*}
+QS  "C-Syl_Arxa_Sira_Achiq"  {*|o/C:*,a/C:*}
+QS  "C-Syl_On_Sira_Dodaqlanan"  {*|uu/C:*,oo/C:*}
+QS  "C-Syl_On_Sira_Dodaqlanmayan"  {*|i/C:*,ee/C:*}
+QS  "C-Syl_Arxa_Sira_Dodaqlanan"  {*|u/C:*,o/C:*}
+QS  "C-Syl_Arxa_Sira_Dodaqlanmayan"  {*|ii/C:*,a/C:*}
+QS  "C-Syl_Qapali_Dodaqlanan" {*|u/C:*,uu/C:*}
+QS  "C-Syl_Qapali_Dodaqlanmayan" {*|i/C:*,ii/C:*}
+QS  "C-Syl_Achiq_Dodaqlanan" {*|o/C:*,oo/C:*}
+QS  "C-Syl_Achiq_Dodaqlanmayan" {*|a/C:*,ee/C:*}
+QS  "C-Syl_a"		{*|a/C:*}
+QS  "C-Syl_e"		{*|e/C:*}
+QS  "C-Syl_ee"		{*|ee/C:*}
+QS  "C-Syl_i"		{*|i/C:*}
+QS  "C-Syl_ii"		{*|ii/C:*}
+QS  "C-Syl_o"		{*|o/C:*}
+QS  "C-Syl_oo"		{*|oo/C:*}
+QS  "C-Syl_u"		{*|u/C:*}
+QS  "C-Syl_uu"		{*|uu/C:*}
+
+
+
+QS "R-Syl_Stress==1"		{*/C:1+*}
+QS "R-Syl_Stress==0"		{*/C:0+*}
+
+
+
+QS "R-Syl_Accent==1"		{*+1+*}
+QS "R-Syl_Accent==0"		{*+0+*}
+
+
+
+QS "R-Syl_Num-Segs==0"	{*+0/D:*}
+QS "R-Syl_Num-Segs==1"	{*+1/D:*}
+QS "R-Syl_Num-Segs==2"	{*+2/D:*}
+QS "R-Syl_Num-Segs==3"	{*+3/D:*}
+QS "R-Syl_Num-Segs==4"	{*+4/D:*}
+QS "R-Syl_Num-Segs==5"	{*+5/D:*}
+QS "R-Syl_Num-Segs==6"	{*+6/D:*}
+QS "R-Syl_Num-Segs==7"	{*+7/D:*}
+
+QS "R-Syl_Num-Segs<=1"	{*+0/D:*,*+1/D:*}
+QS "R-Syl_Num-Segs<=2"	{*+0/D:*,*+1/D:*,*+2/D:*}
+QS "R-Syl_Num-Segs<=3"	{*+0/D:*,*+1/D:*,*+2/D:*,*+3/D:*}
+QS "R-Syl_Num-Segs<=4"	{*+0/D:*,*+1/D:*,*+2/D:*,*+3/D:*,*+4/D:*}
+QS "R-Syl_Num-Segs<=5"	{*+0/D:*,*+1/D:*,*+2/D:*,*+3/D:*,*+4/D:*,*+5/D:*}
+QS "R-Syl_Num-Segs<=6"	{*+0/D:*,*+1/D:*,*+2/D:*,*+3/D:*,*+4/D:*,*+5/D:*,*+6/D:*}
+QS "R-Syl_Num-Segs<=7"	{*+0/D:*,*+1/D:*,*+2/D:*,*+3/D:*,*+4/D:*,*+5/D:*,*+6/D:*,*+7/D:*}
+
+
+
+QS "L-Word_GPOS==0"		{*/D:0_*}
+QS "L-Word_GPOS==aux"		{*/D:aux_*}
+QS "L-Word_GPOS==cc"		{*/D:cc_*}
+QS "L-Word_GPOS==content"	{*/D:content_*}
+QS "L-Word_GPOS==det"		{*/D:det_*}
+QS "L-Word_GPOS==in"		{*/D:in_*}
+QS "L-Word_GPOS==md"		{*/D:md_*}
+QS "L-Word_GPOS==pps"		{*/D:pps_*}
+QS "L-Word_GPOS==punc"		{*/D:punc_*}
+QS "L-Word_GPOS==to"		{*/D:to_*}
+QS "L-Word_GPOS==wp"		{*/D:wp_*}
+
+
+
+QS "L-Word_Num-Syls==0"	{*_0/E:*}
+QS "L-Word_Num-Syls==1"	{*_1/E:*}
+QS "L-Word_Num-Syls==2"	{*_2/E:*}
+QS "L-Word_Num-Syls==3"	{*_3/E:*}
+QS "L-Word_Num-Syls==4"	{*_4/E:*}
+QS "L-Word_Num-Syls==5"	{*_5/E:*}
+QS "L-Word_Num-Syls==6"	{*_6/E:*}
+QS "L-Word_Num-Syls==7"	{*_7/E:*}
+
+QS "L-Word_Num-Syls<=1"	{*_0/E:*,*_1/E:*}
+QS "L-Word_Num-Syls<=2"	{*_0/E:*,*_1/E:*,*_2/E:*}
+QS "L-Word_Num-Syls<=3"	{*_0/E:*,*_1/E:*,*_2/E:*,*_3/E:*}
+QS "L-Word_Num-Syls<=4"	{*_0/E:*,*_1/E:*,*_2/E:*,*_3/E:*,*_4/E:*}
+QS "L-Word_Num-Syls<=5"	{*_0/E:*,*_1/E:*,*_2/E:*,*_3/E:*,*_4/E:*,*_5/E:*}
+QS "L-Word_Num-Syls<=6"	{*_0/E:*,*_1/E:*,*_2/E:*,*_3/E:*,*_4/E:*,*_5/E:*,*_6/E:*}
+QS "L-Word_Num-Syls<=7"	{*_0/E:*,*_1/E:*,*_2/E:*,*_3/E:*,*_4/E:*,*_5/E:*,*_6/E:*,*_7/E:*}
+
+
+
+QS "C-Word_GPOS==xx"		{*/E:xx+*}
+QS "C-Word_GPOS==aux"		{*/E:aux+*}
+QS "C-Word_GPOS==cc"		{*/E:cc+*}
+QS "C-Word_GPOS==content"	{*/E:content+*}
+QS "C-Word_GPOS==det"		{*/E:det+*}
+QS "C-Word_GPOS==in"		{*/E:in+*}
+QS "C-Word_GPOS==md"		{*/E:md+*}
+QS "C-Word_GPOS==pps"		{*/E:pps+*}
+QS "C-Word_GPOS==punc"		{*/E:punc+*}
+QS "C-Word_GPOS==to"		{*/E:to+*}
+QS "C-Word_GPOS==wp"		{*/E:wp+*}
+
+
+
+QS "C-Word_Num-Syls==xx"	{*+xx@*}
+QS "C-Word_Num-Syls==1"	{*+1@*}
+QS "C-Word_Num-Syls==2"	{*+2@*}
+QS "C-Word_Num-Syls==3"	{*+3@*}
+QS "C-Word_Num-Syls==4"	{*+4@*}
+QS "C-Word_Num-Syls==5"	{*+5@*}
+QS "C-Word_Num-Syls==6"	{*+6@*}
+QS "C-Word_Num-Syls==7"	{*+7@*}
+
+QS "C-Word_Num-Syls<=1"	{*+xx@*,*+1@*}
+QS "C-Word_Num-Syls<=2"	{*+xx@*,*+1@*,*+2@*}
+QS "C-Word_Num-Syls<=3"	{*+xx@*,*+1@*,*+2@*,*+3@*}
+QS "C-Word_Num-Syls<=4"	{*+xx@*,*+1@*,*+2@*,*+3@*,*+4@*}
+QS "C-Word_Num-Syls<=5"	{*+xx@*,*+1@*,*+2@*,*+3@*,*+4@*,*+5@*}
+QS "C-Word_Num-Syls<=6"	{*+xx@*,*+1@*,*+2@*,*+3@*,*+4@*,*+5@*,*+6@*}
+QS "C-Word_Num-Syls<=7"	{*+xx@*,*+1@*,*+2@*,*+3@*,*+4@*,*+5@*,*+6@*,*+7@*}
+
+
+
+QS "Pos_C-Word_in_C-Phrase(Fw)==xx"	{*@xx+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==1"	{*@1+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==2"	{*@2+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==3"	{*@3+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==4"	{*@4+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==5"	{*@5+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==6"	{*@6+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==7"	{*@7+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==8"	{*@8+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==9"	{*@9+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==10"	{*@10+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==11"	{*@11+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==12"	{*@12+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)==13"	{*@13+*}
+
+QS "Pos_C-Word_in_C-Phrase(Fw)<=1"	{*@xx+*,*@1+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)<=2"	{*@xx+*,*@1+*,*@2+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)<=3"	{*@xx+*,*@1+*,*@2+*,*@3+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)<=4"	{*@xx+*,*@1+*,*@2+*,*@3+*,*@4+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)<=5"	{*@xx+*,*@1+*,*@2+*,*@3+*,*@4+*,*@5+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)<=6"	{*@xx+*,*@1+*,*@2+*,*@3+*,*@4+*,*@5+*,*@6+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)<=7"	{*@xx+*,*@1+*,*@2+*,*@3+*,*@4+*,*@5+*,*@6+*,*@7+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)<=8"	{*@xx+*,*@1+*,*@2+*,*@3+*,*@4+*,*@5+*,*@6+*,*@7+*,*@8+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)<=9"	{*@?+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)<=10"	{*@?+*,*@10+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)<=11"	{*@?+*,*@10+*,*@11+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)<=12"	{*@?+*,*@10+*,*@11+*,*@12+*}
+QS "Pos_C-Word_in_C-Phrase(Fw)<=13"	{*@?+*,*@10+*,*@11+*,*@12+*,*@13+*}
+
+
+
+QS "Pos_C-Word_in_C-Phrase(Bw)==xx"	{*+xx&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==0"	{*+0&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==1"	{*+1&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==2"	{*+2&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==3"	{*+3&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==4"	{*+4&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==5"	{*+5&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==6"	{*+6&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==7"	{*+7&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==8"	{*+8&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==9"	{*+9&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==10"	{*+10&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==11"	{*+11&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==12"	{*+12&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)==13"	{*+13&*}
+
+QS "Pos_C-Word_in_C-Phrase(Bw)<=1"	{*+xx&*,*+0&*,*+1&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)<=2"	{*+xx&*,*+0&*,*+1&*,*+2&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)<=3"	{*+xx&*,*+0&*,*+1&*,*+2&*,*+3&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)<=4"	{*+xx&*,*+0&*,*+1&*,*+2&*,*+3&*,*+4&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)<=5"	{*+xx&*,*+0&*,*+1&*,*+2&*,*+3&*,*+4&*,*+5&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)<=6"	{*+xx&*,*+0&*,*+1&*,*+2&*,*+3&*,*+4&*,*+5&*,*+6&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)<=7"	{*+xx&*,*+0&*,*+1&*,*+2&*,*+3&*,*+4&*,*+5&*,*+6&*,*+7&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)<=8"	{*+xx&*,*+0&*,*+1&*,*+2&*,*+3&*,*+4&*,*+5&*,*+6&*,*+7&*,*+8&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)<=9"	{*+?&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)<=10"	{*+?&*,*+10&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)<=11"	{*+?&*,*+10&*,*+11&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)<=12"	{*+?&*,*+10&*,*+11&*,*+12&*}
+QS "Pos_C-Word_in_C-Phrase(Bw)<=13"	{*+?&*,*+10&*,*+11&*,*+12&*,*+13&*}
+
+
+
+QS "Num-ContWord_before_C-Word_in_C-Phrase==xx"	{*&xx+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase==1"	{*&1+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase==2"	{*&2+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase==3"	{*&3+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase==4"	{*&4+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase==5"	{*&5+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase==6"	{*&6+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase==7"	{*&7+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase==8"	{*&8+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase==9"	{*&9+*}
+
+QS "Num-ContWord_before_C-Word_in_C-Phrase<=1"	{*&xx+*,*&1+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase<=2"	{*&xx+*,*&1+*,*&2+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase<=3"	{*&xx+*,*&1+*,*&2+*,*&3+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase<=4"	{*&xx+*,*&1+*,*&2+*,*&3+*,*&4+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase<=5"	{*&xx+*,*&1+*,*&2+*,*&3+*,*&4+*,*&5+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase<=6"	{*&xx+*,*&1+*,*&2+*,*&3+*,*&4+*,*&5+*,*&6+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase<=7"	{*&xx+*,*&1+*,*&2+*,*&3+*,*&4+*,*&5+*,*&6+*,*&7+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase<=8"	{*&xx+*,*&1+*,*&2+*,*&3+*,*&4+*,*&5+*,*&6+*,*&7+*,*&8+*}
+QS "Num-ContWord_before_C-Word_in_C-Phrase<=9"	{*&?+*}
+
+
+
+QS "Num-ContWord_after_C-Word_in_C-Phrase==xx"	{*+xx#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase==0"	{*+0#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase==1"	{*+1#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase==2"	{*+2#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase==3"	{*+3#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase==4"	{*+4#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase==5"	{*+5#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase==6"	{*+6#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase==7"	{*+7#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase==8"	{*+8#*}
+
+QS "Num-ContWord_after_C-Word_in_C-Phrase<=0"	{*+xx#*,*+0#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase<=1"	{*+xx#*,*+0#*,*+1#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase<=2"	{*+xx#*,*+0#*,*+1#*,*+2#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase<=3"	{*+xx#*,*+0#*,*+1#*,*+2#*,*+3#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase<=4"	{*+xx#*,*+0#*,*+1#*,*+2#*,*+3#*,*+4#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase<=5"	{*+xx#*,*+0#*,*+1#*,*+2#*,*+3#*,*+4#*,*+5#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase<=6"	{*+xx#*,*+0#*,*+1#*,*+2#*,*+3#*,*+4#*,*+5#*,*+6#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase<=7"	{*+xx#*,*+0#*,*+1#*,*+2#*,*+3#*,*+4#*,*+5#*,*+6#*,*+7#*}
+QS "Num-ContWord_after_C-Word_in_C-Phrase<=8"	{*+xx#*,*+0#*,*+1#*,*+2#*,*+3#*,*+4#*,*+5#*,*+6#*,*+7#*,*+8#*}
+
+
+
+QS "Num-Words_from_prev-ContWord==xx"	{*#xx+*}
+QS "Num-Words_from_prev-ContWord==0"	{*#0+*}
+QS "Num-Words_from_prev-ContWord==1"	{*#1+*}
+QS "Num-Words_from_prev-ContWord==2"	{*#2+*}
+QS "Num-Words_from_prev-ContWord==3"	{*#3+*}
+QS "Num-Words_from_prev-ContWord==4"	{*#4+*}
+QS "Num-Words_from_prev-ContWord==5"	{*#5+*}
+
+QS "Num-Words_from_prev-ContWord<=0"	{*#xx+*,*#0+*}
+QS "Num-Words_from_prev-ContWord<=1"	{*#xx+*,*#0+*,*#1+*}
+QS "Num-Words_from_prev-ContWord<=2"	{*#xx+*,*#0+*,*#1+*,*#2+*}
+QS "Num-Words_from_prev-ContWord<=3"	{*#xx+*,*#0+*,*#1+*,*#2+*,*#3+*}
+QS "Num-Words_from_prev-ContWord<=4"	{*#xx+*,*#0+*,*#1+*,*#2+*,*#3+*,*#4+*}
+QS "Num-Words_from_prev-ContWord<=5"	{*#xx+*,*#0+*,*#1+*,*#2+*,*#3+*,*#4+*,*#5+*}
+
+
+
+QS "Num-Words_from_next-ContWord==xx"	{*+xx/F:*}
+QS "Num-Words_from_next-ContWord==0"	{*+0/F:*}
+QS "Num-Words_from_next-ContWord==1"	{*+1/F:*}
+QS "Num-Words_from_next-ContWord==2"	{*+2/F:*}
+QS "Num-Words_from_next-ContWord==3"	{*+3/F:*}
+QS "Num-Words_from_next-ContWord==4"	{*+4/F:*}
+QS "Num-Words_from_next-ContWord==5"	{*+5/F:*}
+
+QS "Num-Words_from_next-ContWord<=0"	{*+xx/F:*,*+0/F:*}
+QS "Num-Words_from_next-ContWord<=1"	{*+xx/F:*,*+0/F:*,*+1/F:*}
+QS "Num-Words_from_next-ContWord<=2"	{*+xx/F:*,*+0/F:*,*+1/F:*,*+2/F:*}
+QS "Num-Words_from_next-ContWord<=3"	{*+xx/F:*,*+0/F:*,*+1/F:*,*+2/F:*,*+3/F:*}
+QS "Num-Words_from_next-ContWord<=4"	{*+xx/F:*,*+0/F:*,*+1/F:*,*+2/F:*,*+3/F:*,*+4/F:*}
+QS "Num-Words_from_next-ContWord<=5"	{*+xx/F:*,*+0/F:*,*+1/F:*,*+2/F:*,*+3/F:*,*+4/F:*,*+5/F:*}
+
+
+
+QS "R-Word_GPOS==0"		{*/F:0_*}
+QS "R-Word_GPOS==aux"		{*/F:aux_*}
+QS "R-Word_GPOS==cc"		{*/F:cc_*}
+QS "R-Word_GPOS==content"	{*/F:content_*}
+QS "R-Word_GPOS==det"		{*/F:det_*}
+QS "R-Word_GPOS==in"		{*/F:in_*}
+QS "R-Word_GPOS==md"		{*/F:md_*}
+QS "R-Word_GPOS==pps"		{*/F:pps_*}
+QS "R-Word_GPOS==punc"		{*/F:punc_*}
+QS "R-Word_GPOS==to"		{*/F:to_*}
+QS "R-Word_GPOS==wp"		{*/F:wp_*}
+
+
+
+QS "R-Word_Num-Syls==0"	{*_0/G:*}
+QS "R-Word_Num-Syls==1"	{*_1/G:*}
+QS "R-Word_Num-Syls==2"	{*_2/G:*}
+QS "R-Word_Num-Syls==3"	{*_3/G:*}
+QS "R-Word_Num-Syls==4"	{*_4/G:*}
+QS "R-Word_Num-Syls==5"	{*_5/G:*}
+QS "R-Word_Num-Syls==6"	{*_6/G:*}
+QS "R-Word_Num-Syls==7"	{*_7/G:*}
+
+QS "R-Word_Num-Syls<=1"	{*_0/G:*,*_1/G:*}
+QS "R-Word_Num-Syls<=2"	{*_0/G:*,*_1/G:*,*_2/G:*}
+QS "R-Word_Num-Syls<=3"	{*_0/G:*,*_1/G:*,*_2/G:*,*_3/G:*}
+QS "R-Word_Num-Syls<=4"	{*_0/G:*,*_1/G:*,*_2/G:*,*_3/G:*,*_4/G:*}
+QS "R-Word_Num-Syls<=5"	{*_0/G:*,*_1/G:*,*_2/G:*,*_3/G:*,*_4/G:*,*_5/G:*}
+QS "R-Word_Num-Syls<=6"	{*_0/G:*,*_1/G:*,*_2/G:*,*_3/G:*,*_4/G:*,*_5/G:*,*_6/G:*}
+QS "R-Word_Num-Syls<=7"	{*_0/G:*,*_1/G:*,*_2/G:*,*_3/G:*,*_4/G:*,*_5/G:*,*_6/G:*,*_7/G:*}
+
+
+
+QS "L-Phrase_Num-Syls==0"	{*/G:0_*}
+QS "L-Phrase_Num-Syls==1"	{*/G:1_*}
+QS "L-Phrase_Num-Syls==2"	{*/G:2_*}
+QS "L-Phrase_Num-Syls==3"	{*/G:3_*}
+QS "L-Phrase_Num-Syls==4"	{*/G:4_*}
+QS "L-Phrase_Num-Syls==5"	{*/G:5_*}
+QS "L-Phrase_Num-Syls==6"	{*/G:6_*}
+QS "L-Phrase_Num-Syls==7"	{*/G:7_*}
+QS "L-Phrase_Num-Syls==8"	{*/G:8_*}
+QS "L-Phrase_Num-Syls==9"	{*/G:9_*}
+QS "L-Phrase_Num-Syls==10"	{*/G:10_*}
+QS "L-Phrase_Num-Syls==11"	{*/G:11_*}
+QS "L-Phrase_Num-Syls==12"	{*/G:12_*}
+QS "L-Phrase_Num-Syls==13"	{*/G:13_*}
+QS "L-Phrase_Num-Syls==14"	{*/G:14_*}
+QS "L-Phrase_Num-Syls==15"	{*/G:15_*}
+QS "L-Phrase_Num-Syls==16"	{*/G:16_*}
+QS "L-Phrase_Num-Syls==17"	{*/G:17_*}
+QS "L-Phrase_Num-Syls==18"	{*/G:18_*}
+QS "L-Phrase_Num-Syls==19"	{*/G:19_*}
+QS "L-Phrase_Num-Syls==20"	{*/G:20_*}
+
+QS "L-Phrase_Num-Syls<=1"	{*/G:0_*,*/G:1_*}
+QS "L-Phrase_Num-Syls<=2"	{*/G:0_*,*/G:1_*,*/G:2_*}
+QS "L-Phrase_Num-Syls<=3"	{*/G:0_*,*/G:1_*,*/G:2_*,*/G:3_*}
+QS "L-Phrase_Num-Syls<=4"	{*/G:0_*,*/G:1_*,*/G:2_*,*/G:3_*,*/G:4_*}
+QS "L-Phrase_Num-Syls<=5"	{*/G:0_*,*/G:1_*,*/G:2_*,*/G:3_*,*/G:4_*,*/G:5_*}
+QS "L-Phrase_Num-Syls<=6"	{*/G:0_*,*/G:1_*,*/G:2_*,*/G:3_*,*/G:4_*,*/G:5_*,*/G:6_*}
+QS "L-Phrase_Num-Syls<=7"	{*/G:0_*,*/G:1_*,*/G:2_*,*/G:3_*,*/G:4_*,*/G:5_*,*/G:6_*,*/G:7_*}
+QS "L-Phrase_Num-Syls<=8"	{*/G:0_*,*/G:1_*,*/G:2_*,*/G:3_*,*/G:4_*,*/G:5_*,*/G:6_*,*/G:7_*,*/G:8_*}
+QS "L-Phrase_Num-Syls<=9"	{*/G:?_*}
+QS "L-Phrase_Num-Syls<=10"	{*/G:?_*,*/G:10_*}
+QS "L-Phrase_Num-Syls<=11"	{*/G:?_*,*/G:10_*,*/G:11_*}
+QS "L-Phrase_Num-Syls<=12"	{*/G:?_*,*/G:10_*,*/G:11_*,*/G:12_*}
+QS "L-Phrase_Num-Syls<=13"	{*/G:?_*,*/G:10_*,*/G:11_*,*/G:12_*,*/G:13_*}
+QS "L-Phrase_Num-Syls<=14"	{*/G:?_*,*/G:10_*,*/G:11_*,*/G:12_*,*/G:13_*,*/G:14_*}
+QS "L-Phrase_Num-Syls<=15"	{*/G:?_*,*/G:10_*,*/G:11_*,*/G:12_*,*/G:13_*,*/G:14_*,*/G:15_*}
+QS "L-Phrase_Num-Syls<=16"	{*/G:?_*,*/G:10_*,*/G:11_*,*/G:12_*,*/G:13_*,*/G:14_*,*/G:15_*,*/G:16_*}
+QS "L-Phrase_Num-Syls<=17"	{*/G:?_*,*/G:10_*,*/G:11_*,*/G:12_*,*/G:13_*,*/G:14_*,*/G:15_*,*/G:16_*,*/G:17_*}
+QS "L-Phrase_Num-Syls<=18"	{*/G:?_*,*/G:10_*,*/G:11_*,*/G:12_*,*/G:13_*,*/G:14_*,*/G:15_*,*/G:16_*,*/G:17_*,*/G:18_*}
+QS "L-Phrase_Num-Syls<=19"	{*/G:?_*,*/G:1?_*}
+QS "L-Phrase_Num-Syls<=20"	{*/G:?_*,*/G:1?_*,*/G:20_*}
+
+
+
+QS "L-Phrase_Num-Words==0"	{*_0/H:*}
+QS "L-Phrase_Num-Words==1"	{*_1/H:*}
+QS "L-Phrase_Num-Words==2"	{*_2/H:*}
+QS "L-Phrase_Num-Words==3"	{*_3/H:*}
+QS "L-Phrase_Num-Words==4"	{*_4/H:*}
+QS "L-Phrase_Num-Words==5"	{*_5/H:*}
+QS "L-Phrase_Num-Words==6"	{*_6/H:*}
+QS "L-Phrase_Num-Words==7"	{*_7/H:*}
+QS "L-Phrase_Num-Words==8"	{*_8/H:*}
+QS "L-Phrase_Num-Words==9"	{*_9/H:*}
+QS "L-Phrase_Num-Words==10"	{*_10/H:*}
+QS "L-Phrase_Num-Words==11"	{*_11/H:*}
+QS "L-Phrase_Num-Words==12"	{*_12/H:*}
+QS "L-Phrase_Num-Words==13"	{*_13/H:*}
+
+QS "L-Phrase_Num-Words<=1"	{*_0/H:*,*_1/H:*}
+QS "L-Phrase_Num-Words<=2"	{*_0/H:*,*_1/H:*,*_2/H:*}
+QS "L-Phrase_Num-Words<=3"	{*_0/H:*,*_1/H:*,*_2/H:*,*_3/H:*}
+QS "L-Phrase_Num-Words<=4"	{*_0/H:*,*_1/H:*,*_2/H:*,*_3/H:*,*_4/H:*}
+QS "L-Phrase_Num-Words<=5"	{*_0/H:*,*_1/H:*,*_2/H:*,*_3/H:*,*_4/H:*,*_5/H:*}
+QS "L-Phrase_Num-Words<=6"	{*_0/H:*,*_1/H:*,*_2/H:*,*_3/H:*,*_4/H:*,*_5/H:*,*_6/H:*}
+QS "L-Phrase_Num-Words<=7"	{*_0/H:*,*_1/H:*,*_2/H:*,*_3/H:*,*_4/H:*,*_5/H:*,*_6/H:*,*_7/H:*}
+QS "L-Phrase_Num-Words<=8"	{*_0/H:*,*_1/H:*,*_2/H:*,*_3/H:*,*_4/H:*,*_5/H:*,*_6/H:*,*_7/H:*,*_8/H:*}
+QS "L-Phrase_Num-Words<=9"	{*_?/H:*}
+QS "L-Phrase_Num-Words<=10"	{*_?/H:*,*_10/H:*}
+QS "L-Phrase_Num-Words<=11"	{*_?/H:*,*_10/H:*,*_11/H:*}
+QS "L-Phrase_Num-Words<=12"	{*_?/H:*,*_10/H:*,*_11/H:*,*_12/H:*}
+QS "L-Phrase_Num-Words<=13"	{*_?/H:*,*_10/H:*,*_11/H:*,*_12/H:*,*_13/H:*}
+
+
+
+QS "C-Phrase_Num-Syls==xx"	{*/H:xx=*}
+QS "C-Phrase_Num-Syls==0"	{*/H:0=*}
+QS "C-Phrase_Num-Syls==1"	{*/H:1=*}
+QS "C-Phrase_Num-Syls==2"	{*/H:2=*}
+QS "C-Phrase_Num-Syls==3"	{*/H:3=*}
+QS "C-Phrase_Num-Syls==4"	{*/H:4=*}
+QS "C-Phrase_Num-Syls==5"	{*/H:5=*}
+QS "C-Phrase_Num-Syls==6"	{*/H:6=*}
+QS "C-Phrase_Num-Syls==7"	{*/H:7=*}
+QS "C-Phrase_Num-Syls==8"	{*/H:8=*}
+QS "C-Phrase_Num-Syls==9"	{*/H:9=*}
+QS "C-Phrase_Num-Syls==10"	{*/H:10=*}
+QS "C-Phrase_Num-Syls==11"	{*/H:11=*}
+QS "C-Phrase_Num-Syls==12"	{*/H:12=*}
+QS "C-Phrase_Num-Syls==13"	{*/H:13=*}
+QS "C-Phrase_Num-Syls==14"	{*/H:14=*}
+QS "C-Phrase_Num-Syls==15"	{*/H:15=*}
+QS "C-Phrase_Num-Syls==16"	{*/H:16=*}
+QS "C-Phrase_Num-Syls==17"	{*/H:17=*}
+QS "C-Phrase_Num-Syls==18"	{*/H:18=*}
+QS "C-Phrase_Num-Syls==19"	{*/H:19=*}
+QS "C-Phrase_Num-Syls==20"	{*/H:20=*}
+
+QS "C-Phrase_Num-Syls<=0"	{*/H:xx=*,*/H:0=*}
+QS "C-Phrase_Num-Syls<=1"	{*/H:xx=*,*/H:0=*,*/H:1=*}
+QS "C-Phrase_Num-Syls<=2"	{*/H:xx=*,*/H:0=*,*/H:1=*,*/H:2=*}
+QS "C-Phrase_Num-Syls<=3"	{*/H:xx=*,*/H:0=*,*/H:1=*,*/H:2=*,*/H:3=*}
+QS "C-Phrase_Num-Syls<=4"	{*/H:xx=*,*/H:0=*,*/H:1=*,*/H:2=*,*/H:3=*,*/H:4=*}
+QS "C-Phrase_Num-Syls<=5"	{*/H:xx=*,*/H:0=*,*/H:1=*,*/H:2=*,*/H:3=*,*/H:4=*,*/H:5=*}
+QS "C-Phrase_Num-Syls<=6"	{*/H:xx=*,*/H:0=*,*/H:1=*,*/H:2=*,*/H:3=*,*/H:4=*,*/H:5=*,*/H:6=*}
+QS "C-Phrase_Num-Syls<=7"	{*/H:xx=*,*/H:0=*,*/H:1=*,*/H:2=*,*/H:3=*,*/H:4=*,*/H:5=*,*/H:6=*,*/H:7=*}
+QS "C-Phrase_Num-Syls<=8"	{*/H:xx=*,*/H:0=*,*/H:1=*,*/H:2=*,*/H:3=*,*/H:4=*,*/H:5=*,*/H:6=*,*/H:7=*,*/H:8=*}
+QS "C-Phrase_Num-Syls<=9"	{*/H:?=*}
+QS "C-Phrase_Num-Syls<=10"	{*/H:?=*,*/H:10=*}
+QS "C-Phrase_Num-Syls<=11"	{*/H:?=*,*/H:10=*,*/H:11=*}
+QS "C-Phrase_Num-Syls<=12"	{*/H:?=*,*/H:10=*,*/H:11=*,*/H:12=*}
+QS "C-Phrase_Num-Syls<=13"	{*/H:?=*,*/H:10=*,*/H:11=*,*/H:12=*,*/H:13=*}
+QS "C-Phrase_Num-Syls<=14"	{*/H:?=*,*/H:10=*,*/H:11=*,*/H:12=*,*/H:13=*,*/H:14=*}
+QS "C-Phrase_Num-Syls<=15"	{*/H:?=*,*/H:10=*,*/H:11=*,*/H:12=*,*/H:13=*,*/H:14=*,*/H:15=*}
+QS "C-Phrase_Num-Syls<=16"	{*/H:?=*,*/H:10=*,*/H:11=*,*/H:12=*,*/H:13=*,*/H:14=*,*/H:15=*,*/H:16=*}
+QS "C-Phrase_Num-Syls<=17"	{*/H:?=*,*/H:10=*,*/H:11=*,*/H:12=*,*/H:13=*,*/H:14=*,*/H:15=*,*/H:16=*,*/H:17=*}
+QS "C-Phrase_Num-Syls<=18"	{*/H:?=*,*/H:10=*,*/H:11=*,*/H:12=*,*/H:13=*,*/H:14=*,*/H:15=*,*/H:16=*,*/H:17=*,*/H:18=*}
+QS "C-Phrase_Num-Syls<=19"	{*/H:?=*,*/H:1?=*}
+QS "C-Phrase_Num-Syls<=20"	{*/H:?=*,*/H:1?=*,*/H:20=*}
+
+
+
+QS "C-Phrase_Num-Words==xx"	{*=xx@*}
+QS "C-Phrase_Num-Words==0"	{*=0@*}
+QS "C-Phrase_Num-Words==1"	{*=1@*}
+QS "C-Phrase_Num-Words==2"	{*=2@*}
+QS "C-Phrase_Num-Words==3"	{*=3@*}
+QS "C-Phrase_Num-Words==4"	{*=4@*}
+QS "C-Phrase_Num-Words==5"	{*=5@*}
+QS "C-Phrase_Num-Words==6"	{*=6@*}
+QS "C-Phrase_Num-Words==7"	{*=7@*}
+QS "C-Phrase_Num-Words==8"	{*=8@*}
+QS "C-Phrase_Num-Words==9"	{*=9@*}
+QS "C-Phrase_Num-Words==10"	{*=10@*}
+QS "C-Phrase_Num-Words==11"	{*=11@*}
+QS "C-Phrase_Num-Words==12"	{*=12@*}
+QS "C-Phrase_Num-Words==13"	{*=13@*}
+
+QS "C-Phrase_Num-Words<=0"	{*=xx@*,*=0@*}
+QS "C-Phrase_Num-Words<=1"	{*=xx@*,*=0@*,*=1@*}
+QS "C-Phrase_Num-Words<=2"	{*=xx@*,*=0@*,*=1@*,*=2@*}
+QS "C-Phrase_Num-Words<=3"	{*=xx@*,*=0@*,*=1@*,*=2@*,*=3@*}
+QS "C-Phrase_Num-Words<=4"	{*=xx@*,*=0@*,*=1@*,*=2@*,*=3@*,*=4@*}
+QS "C-Phrase_Num-Words<=5"	{*=xx@*,*=0@*,*=1@*,*=2@*,*=3@*,*=4@*,*=5@*}
+QS "C-Phrase_Num-Words<=6"	{*=xx@*,*=0@*,*=1@*,*=2@*,*=3@*,*=4@*,*=5@*,*=6@*}
+QS "C-Phrase_Num-Words<=7"	{*=xx@*,*=0@*,*=1@*,*=2@*,*=3@*,*=4@*,*=5@*,*=6@*,*=7@*}
+QS "C-Phrase_Num-Words<=8"	{*=xx@*,*=0@*,*=1@*,*=2@*,*=3@*,*=4@*,*=5@*,*=6@*,*=7@*,*=8@*}
+QS "C-Phrase_Num-Words<=9"	{*=xx@*,*=0@*,*=1@*,*=2@*,*=3@*,*=4@*,*=5@*,*=6@*,*=7@*,*=8@*,*=9@*}
+QS "C-Phrase_Num-Words<=10"	{*=xx@*,*=0@*,*=1@*,*=2@*,*=3@*,*=4@*,*=5@*,*=6@*,*=7@*,*=8@*,*=9@*,*=10@*}
+QS "C-Phrase_Num-Words<=11"	{*=xx@*,*=0@*,*=1@*,*=2@*,*=3@*,*=4@*,*=5@*,*=6@*,*=7@*,*=8@*,*=9@*,*=10@*,*=11@*}
+QS "C-Phrase_Num-Words<=12"	{*=xx@*,*=0@*,*=1@*,*=2@*,*=3@*,*=4@*,*=5@*,*=6@*,*=7@*,*=8@*,*=9@*,*=10@*,*=11@*,*=12@*}
+QS "C-Phrase_Num-Words<=13"	{*=xx@*,*=0@*,*=1@*,*=2@*,*=3@*,*=4@*,*=5@*,*=6@*,*=7@*,*=8@*,*=9@*,*=10@*,*=11@*,*=12@*,*=13@*}
+
+
+
+QS "Pos_C-Phrase_in_Utterance(Fw)==1"	{*@1=*}
+QS "Pos_C-Phrase_in_Utterance(Fw)==2"	{*@2=*}
+QS "Pos_C-Phrase_in_Utterance(Fw)==3"	{*@3=*}
+QS "Pos_C-Phrase_in_Utterance(Fw)==4"	{*@4=*}
+
+QS "Pos_C-Phrase_in_Utterance(Fw)<=2"	{*@1=*,*@2=*}
+QS "Pos_C-Phrase_in_Utterance(Fw)<=3"	{*@1=*,*@2=*,*@3=*}
+QS "Pos_C-Phrase_in_Utterance(Fw)<=4"	{*@1=*,*@2=*,*@3=*,*@4=*}
+
+
+
+QS "Pos_C-Phrase_in_Utterance(Bw)==1"	{*=1|*}
+QS "Pos_C-Phrase_in_Utterance(Bw)==2"	{*=2|*}
+QS "Pos_C-Phrase_in_Utterance(Bw)==3"	{*=3|*}
+QS "Pos_C-Phrase_in_Utterance(Bw)==4"	{*=4|*}
+
+QS "Pos_C-Phrase_in_Utterance(Bw)<=2"	{*=1|*,*=2|*}
+QS "Pos_C-Phrase_in_Utterance(Bw)<=3"	{*=1|*,*=2|*,*=3|*}
+QS "Pos_C-Phrase_in_Utterance(Bw)<=4"	{*=1|*,*=2|*,*=3|*,*=4|*}
+
+
+
+QS "C-Phrase_TOBI_End-tone-LL"      {*|L-L%/I:*}
+QS "C-Phrase_TOBI_End-tone-LH"		{*|L-H%/I:*}
+QS "C-Phrase_TOBI_End-tone-HH"		{*|H-H%/I:*}
+QS "C-Phrase_TOBI_End-tone-NONE"	{*|NONE/I:*}
+QS "C-Phrase_TOBI_End-tone-0"		{*|0/I:*}
+
+
+
+QS "R-Phrase_Num-Syls==0"	{*/I:0=*}
+QS "R-Phrase_Num-Syls==1"	{*/I:1=*}
+QS "R-Phrase_Num-Syls==2"	{*/I:2=*}
+QS "R-Phrase_Num-Syls==3"	{*/I:3=*}
+QS "R-Phrase_Num-Syls==4"	{*/I:4=*}
+QS "R-Phrase_Num-Syls==5"	{*/I:5=*}
+QS "R-Phrase_Num-Syls==6"	{*/I:6=*}
+QS "R-Phrase_Num-Syls==7"	{*/I:7=*}
+QS "R-Phrase_Num-Syls==8"	{*/I:8=*}
+QS "R-Phrase_Num-Syls==9"	{*/I:9=*}
+QS "R-Phrase_Num-Syls==10"	{*/I:10=*}
+QS "R-Phrase_Num-Syls==11"	{*/I:11=*}
+QS "R-Phrase_Num-Syls==12"	{*/I:12=*}
+QS "R-Phrase_Num-Syls==13"	{*/I:13=*}
+QS "R-Phrase_Num-Syls==14"	{*/I:14=*}
+QS "R-Phrase_Num-Syls==15"	{*/I:15=*}
+QS "R-Phrase_Num-Syls==16"	{*/I:16=*}
+QS "R-Phrase_Num-Syls==17"	{*/I:17=*}
+QS "R-Phrase_Num-Syls==18"	{*/I:18=*}
+QS "R-Phrase_Num-Syls==19"	{*/I:19=*}
+QS "R-Phrase_Num-Syls==20"	{*/I:20=*}
+
+QS "R-Phrase_Num-Syls<=1"	{*/I:0=*,*/I:1=*}
+QS "R-Phrase_Num-Syls<=2"	{*/I:0=*,*/I:1=*,*/I:2=*}
+QS "R-Phrase_Num-Syls<=3"	{*/I:0=*,*/I:1=*,*/I:2=*,*/I:3=*}
+QS "R-Phrase_Num-Syls<=4"	{*/I:0=*,*/I:1=*,*/I:2=*,*/I:3=*,*/I:4=*}
+QS "R-Phrase_Num-Syls<=5"	{*/I:0=*,*/I:1=*,*/I:2=*,*/I:3=*,*/I:4=*,*/I:5=*}
+QS "R-Phrase_Num-Syls<=6"	{*/I:0=*,*/I:1=*,*/I:2=*,*/I:3=*,*/I:4=*,*/I:5=*,*/I:6=*}
+QS "R-Phrase_Num-Syls<=7"	{*/I:0=*,*/I:1=*,*/I:2=*,*/I:3=*,*/I:4=*,*/I:5=*,*/I:6=*,*/I:7=*}
+QS "R-Phrase_Num-Syls<=8"	{*/I:0=*,*/I:1=*,*/I:2=*,*/I:3=*,*/I:4=*,*/I:5=*,*/I:6=*,*/I:7=*,*/I:8=*}
+QS "R-Phrase_Num-Syls<=9"	{*/I:?=*}
+QS "R-Phrase_Num-Syls<=10"	{*/I:?=*,*/I:10=*}
+QS "R-Phrase_Num-Syls<=11"	{*/I:?=*,*/I:10=*,*/I:11=*}
+QS "R-Phrase_Num-Syls<=12"	{*/I:?=*,*/I:10=*,*/I:11=*,*/I:12=*}
+QS "R-Phrase_Num-Syls<=13"	{*/I:?=*,*/I:10=*,*/I:11=*,*/I:12=*,*/I:13=*}
+QS "R-Phrase_Num-Syls<=14"	{*/I:?=*,*/I:10=*,*/I:11=*,*/I:12=*,*/I:13=*,*/I:14=*}
+QS "R-Phrase_Num-Syls<=15"	{*/I:?=*,*/I:10=*,*/I:11=*,*/I:12=*,*/I:13=*,*/I:14=*,*/I:15=*}
+QS "R-Phrase_Num-Syls<=16"	{*/I:?=*,*/I:10=*,*/I:11=*,*/I:12=*,*/I:13=*,*/I:14=*,*/I:15=*,*/I:16=*}
+QS "R-Phrase_Num-Syls<=17"	{*/I:?=*,*/I:10=*,*/I:11=*,*/I:12=*,*/I:13=*,*/I:14=*,*/I:15=*,*/I:16=*,*/I:17=*}
+QS "R-Phrase_Num-Syls<=18"	{*/I:?=*,*/I:10=*,*/I:11=*,*/I:12=*,*/I:13=*,*/I:14=*,*/I:15=*,*/I:16=*,*/I:17=*,*/I:18=*}
+QS "R-Phrase_Num-Syls<=19"	{*/I:?=*,*/I:1?=*}
+QS "R-Phrase_Num-Syls<=20"	{*/I:?=*,*/I:1?=*,*/I:20=*}
+
+
+
+QS "R-Phrase_Num-Words==0"	{*=0/J:*}
+QS "R-Phrase_Num-Words==1"	{*=1/J:*}
+QS "R-Phrase_Num-Words==2"	{*=2/J:*}
+QS "R-Phrase_Num-Words==3"	{*=3/J:*}
+QS "R-Phrase_Num-Words==4"	{*=4/J:*}
+QS "R-Phrase_Num-Words==5"	{*=5/J:*}
+QS "R-Phrase_Num-Words==6"	{*=6/J:*}
+QS "R-Phrase_Num-Words==7"	{*=7/J:*}
+QS "R-Phrase_Num-Words==8"	{*=8/J:*}
+QS "R-Phrase_Num-Words==9"	{*=9/J:*}
+QS "R-Phrase_Num-Words==10"	{*=10/J:*}
+QS "R-Phrase_Num-Words==11"	{*=11/J:*}
+QS "R-Phrase_Num-Words==12"	{*=12/J:*}
+QS "R-Phrase_Num-Words==13"	{*=13/J:*}
+QS "R-Phrase_Num-Words==14"	{*=14/J:*}
+QS "R-Phrase_Num-Words==15"	{*=15/J:*}
+
+QS "R-Phrase_Num-Words<=1"	{*=0/J:*,*=1/J:*}
+QS "R-Phrase_Num-Words<=2"	{*=0/J:*,*=1/J:*,*=2/J:*}
+QS "R-Phrase_Num-Words<=3"	{*=0/J:*,*=1/J:*,*=2/J:*,*=3/J:*}
+QS "R-Phrase_Num-Words<=4"	{*=0/J:*,*=1/J:*,*=2/J:*,*=3/J:*,*=4/J:*}
+QS "R-Phrase_Num-Words<=5"	{*=0/J:*,*=1/J:*,*=2/J:*,*=3/J:*,*=4/J:*,*=5/J:*}
+QS "R-Phrase_Num-Words<=6"	{*=0/J:*,*=1/J:*,*=2/J:*,*=3/J:*,*=4/J:*,*=5/J:*,*=6/J:*}
+QS "R-Phrase_Num-Words<=7"	{*=0/J:*,*=1/J:*,*=2/J:*,*=3/J:*,*=4/J:*,*=5/J:*,*=6/J:*,*=7/J:*}
+QS "R-Phrase_Num-Words<=8"	{*=0/J:*,*=1/J:*,*=2/J:*,*=3/J:*,*=4/J:*,*=5/J:*,*=6/J:*,*=7/J:*,*=8/J:*}
+QS "R-Phrase_Num-Words<=9"	{*=?/J:*}
+QS "R-Phrase_Num-Words<=10"	{*=?/J:*,*=10/J:*}
+QS "R-Phrase_Num-Words<=11"	{*=?/J:*,*=10/J:*,*=11/J:*}
+QS "R-Phrase_Num-Words<=12"	{*=?/J:*,*=10/J:*,*=11/J:*,*=12/J:*}
+QS "R-Phrase_Num-Words<=13"	{*=?/J:*,*=10/J:*,*=11/J:*,*=12/J:*,*=13/J:*}
+QS "R-Phrase_Num-Words<=14"	{*=?/J:*,*=10/J:*,*=11/J:*,*=12/J:*,*=13/J:*,*=14/J:*}
+QS "R-Phrase_Num-Words<=15"	{*=?/J:*,*=10/J:*,*=11/J:*,*=12/J:*,*=13/J:*,*=14/J:*,*=15/J:*}
+
+
+
+QS "Num-Syls_in_Utterance==1"	{*/J:1+*}
+QS "Num-Syls_in_Utterance==2"	{*/J:2+*}
+QS "Num-Syls_in_Utterance==3"	{*/J:3+*}
+QS "Num-Syls_in_Utterance==4"	{*/J:4+*}
+QS "Num-Syls_in_Utterance==5"	{*/J:5+*}
+QS "Num-Syls_in_Utterance==6"	{*/J:6+*}
+QS "Num-Syls_in_Utterance==7"	{*/J:7+*}
+QS "Num-Syls_in_Utterance==8"	{*/J:8+*}
+QS "Num-Syls_in_Utterance==9"	{*/J:9+*}
+QS "Num-Syls_in_Utterance==10"	{*/J:10+*}
+QS "Num-Syls_in_Utterance==11"	{*/J:11+*}
+QS "Num-Syls_in_Utterance==12"	{*/J:12+*}
+QS "Num-Syls_in_Utterance==13"	{*/J:13+*}
+QS "Num-Syls_in_Utterance==14"	{*/J:14+*}
+QS "Num-Syls_in_Utterance==15"	{*/J:15+*}
+QS "Num-Syls_in_Utterance==16"	{*/J:16+*}
+QS "Num-Syls_in_Utterance==17"	{*/J:17+*}
+QS "Num-Syls_in_Utterance==18"	{*/J:18+*}
+QS "Num-Syls_in_Utterance==19"	{*/J:19+*}
+QS "Num-Syls_in_Utterance==20"	{*/J:20+*}
+QS "Num-Syls_in_Utterance==21"	{*/J:21+*}
+QS "Num-Syls_in_Utterance==22"	{*/J:22+*}
+QS "Num-Syls_in_Utterance==23"	{*/J:23+*}
+QS "Num-Syls_in_Utterance==24"	{*/J:24+*}
+QS "Num-Syls_in_Utterance==25"	{*/J:25+*}
+QS "Num-Syls_in_Utterance==26"	{*/J:26+*}
+QS "Num-Syls_in_Utterance==27"	{*/J:27+*}
+QS "Num-Syls_in_Utterance==28"	{*/J:28+*}
+
+QS "Num-Syls_in_Utterance<=2"	{*/J:1+*,*/J:2+*}
+QS "Num-Syls_in_Utterance<=3"	{*/J:1+*,*/J:2+*,*/J:3+*}
+QS "Num-Syls_in_Utterance<=4"	{*/J:1+*,*/J:2+*,*/J:3+*,*/J:4+*}
+QS "Num-Syls_in_Utterance<=5"	{*/J:1+*,*/J:2+*,*/J:3+*,*/J:4+*,*/J:5+*}
+QS "Num-Syls_in_Utterance<=6"	{*/J:1+*,*/J:2+*,*/J:3+*,*/J:4+*,*/J:5+*,*/J:6+*}
+QS "Num-Syls_in_Utterance<=7"	{*/J:1+*,*/J:2+*,*/J:3+*,*/J:4+*,*/J:5+*,*/J:6+*,*/J:7+*}
+QS "Num-Syls_in_Utterance<=8"	{*/J:1+*,*/J:2+*,*/J:3+*,*/J:4+*,*/J:5+*,*/J:6+*,*/J:7+*,*/J:8+*}
+QS "Num-Syls_in_Utterance<=9"	{*/J:?+*}
+QS "Num-Syls_in_Utterance<=10"	{*/J:?+*,*/J:10+*}
+QS "Num-Syls_in_Utterance<=11"	{*/J:?+*,*/J:10+*,*/J:11+*}
+QS "Num-Syls_in_Utterance<=12"	{*/J:?+*,*/J:10+*,*/J:11+*,*/J:12+*}
+QS "Num-Syls_in_Utterance<=13"	{*/J:?+*,*/J:10+*,*/J:11+*,*/J:12+*,*/J:13+*}
+QS "Num-Syls_in_Utterance<=14"	{*/J:?+*,*/J:10+*,*/J:11+*,*/J:12+*,*/J:13+*,*/J:14+*}
+QS "Num-Syls_in_Utterance<=15"	{*/J:?+*,*/J:10+*,*/J:11+*,*/J:12+*,*/J:13+*,*/J:14+*,*/J:15+*}
+QS "Num-Syls_in_Utterance<=16"	{*/J:?+*,*/J:10+*,*/J:11+*,*/J:12+*,*/J:13+*,*/J:14+*,*/J:15+*,*/J:16+*}
+QS "Num-Syls_in_Utterance<=17"	{*/J:?+*,*/J:10+*,*/J:11+*,*/J:12+*,*/J:13+*,*/J:14+*,*/J:15+*,*/J:16+*,*/J:17+*}
+QS "Num-Syls_in_Utterance<=18"	{*/J:?+*,*/J:10+*,*/J:11+*,*/J:12+*,*/J:13+*,*/J:14+*,*/J:15+*,*/J:16+*,*/J:17+*,*/J:18+*}
+QS "Num-Syls_in_Utterance<=19"	{*/J:?+*,*/J:1?+*}
+QS "Num-Syls_in_Utterance<=20"	{*/J:?+*,*/J:1?+*,*/J:20+*}
+QS "Num-Syls_in_Utterance<=21"	{*/J:?+*,*/J:1?+*,*/J:20+*,*/J:21+*}
+QS "Num-Syls_in_Utterance<=22"	{*/J:?+*,*/J:1?+*,*/J:20+*,*/J:21+*,*/J:22+*}
+QS "Num-Syls_in_Utterance<=23"	{*/J:?+*,*/J:1?+*,*/J:20+*,*/J:21+*,*/J:22+*,*/J:23+*}
+QS "Num-Syls_in_Utterance<=24"	{*/J:?+*,*/J:1?+*,*/J:20+*,*/J:21+*,*/J:22+*,*/J:23+*,*/J:24+*}
+QS "Num-Syls_in_Utterance<=25"	{*/J:?+*,*/J:1?+*,*/J:20+*,*/J:21+*,*/J:22+*,*/J:23+*,*/J:24+*,*/J:25+*}
+QS "Num-Syls_in_Utterance<=26"	{*/J:?+*,*/J:1?+*,*/J:20+*,*/J:21+*,*/J:22+*,*/J:23+*,*/J:24+*,*/J:25+*,*/J:26+*}
+QS "Num-Syls_in_Utterance<=27"	{*/J:?+*,*/J:1?+*,*/J:20+*,*/J:21+*,*/J:22+*,*/J:23+*,*/J:24+*,*/J:25+*,*/J:26+*,*/J:27+*}
+QS "Num-Syls_in_Utterance<=28"	{*/J:?+*,*/J:1?+*,*/J:20+*,*/J:21+*,*/J:22+*,*/J:23+*,*/J:24+*,*/J:25+*,*/J:26+*,*/J:27+*,*/J:28+*}
+
+
+
+QS "Num-Words_in_Utterance==1"	{*+1-*}
+QS "Num-Words_in_Utterance==2"	{*+2-*}
+QS "Num-Words_in_Utterance==3"	{*+3-*}
+QS "Num-Words_in_Utterance==4"	{*+4-*}
+QS "Num-Words_in_Utterance==5"	{*+5-*}
+QS "Num-Words_in_Utterance==6"	{*+6-*}
+QS "Num-Words_in_Utterance==7"	{*+7-*}
+QS "Num-Words_in_Utterance==8"	{*+8-*}
+QS "Num-Words_in_Utterance==9"	{*+9-*}
+QS "Num-Words_in_Utterance==10"	{*+10-*}
+QS "Num-Words_in_Utterance==11"	{*+11-*}
+QS "Num-Words_in_Utterance==12"	{*+12-*}
+QS "Num-Words_in_Utterance==13"	{*+13-*}
+
+QS "Num-Words_in_Utterance<=2"	{*+1-*,*+2-*}
+QS "Num-Words_in_Utterance<=3"	{*+1-*,*+2-*,*+3-*}
+QS "Num-Words_in_Utterance<=4"	{*+1-*,*+2-*,*+3-*,*+4-*}
+QS "Num-Words_in_Utterance<=5"	{*+1-*,*+2-*,*+3-*,*+4-*,*+5-*}
+QS "Num-Words_in_Utterance<=6"	{*+1-*,*+2-*,*+3-*,*+4-*,*+5-*,*+6-*}
+QS "Num-Words_in_Utterance<=7"	{*+1-*,*+2-*,*+3-*,*+4-*,*+5-*,*+6-*,*+7-*}
+QS "Num-Words_in_Utterance<=8"	{*+1-*,*+2-*,*+3-*,*+4-*,*+5-*,*+6-*,*+7-*,*+8-*}
+QS "Num-Words_in_Utterance<=9"	{*+?-*}
+QS "Num-Words_in_Utterance<=10"	{*+?-*,*+10-*}
+QS "Num-Words_in_Utterance<=11"	{*+?-*,*+10-*,*+11-*}
+QS "Num-Words_in_Utterance<=12"	{*+?-*,*+10-*,*+11-*,*+12-*}
+QS "Num-Words_in_Utterance<=13"	{*+?-*,*+10-*,*+11-*,*+12-*,*+13-*}
+
+
+
+QS "Num-Phrases_in_Utterance==1"	{*-1}
+QS "Num-Phrases_in_Utterance==2"	{*-2}
+QS "Num-Phrases_in_Utterance==3"	{*-3}
+QS "Num-Phrases_in_Utterance==4"	{*-4}
+
+QS "Num-Phrases_in_Utterance<=2"	{*-1,*-2}
+QS "Num-Phrases_in_Utterance<=3"	{*-1,*-2,*-3}
+QS "Num-Phrases_in_Utterance<=4"	{*-1,*-2,*-3,*-4}
